@@ -1,0 +1,9 @@
+opencv-python
+numpy
+requests
+python-dotenv
+pyttsx3
+mediapipe==0.10.14
+Pillow
+protobuf<5
+sounddevice

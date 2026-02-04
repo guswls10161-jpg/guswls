@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1356</width>
+    <height>2170</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QStackedWidget" name="stackedWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>2170</width>
+      <height>2151</height>
+     </rect>
+    </property>
+    <property name="tabletTracking">
+     <bool>true</bool>
+    </property>
+    <property name="contextMenuPolicy">
+     <enum>Qt::NoContextMenu</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: black;</string>
+    </property>
+    <property name="currentIndex">
+     <number>7</number>
+    </property>
+    <widget class="QWidget" name="page_1">
+     <widget class="QPushButton" name="btn_wake_up">
+      <property name="geometry">
+       <rect>
+        <x>2</x>
+        <y>-3</y>
+        <width>1111</width>
+        <height>2071</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="flat">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="page_2">
+     <widget class="QPushButton" name="btn_bedsores">
+      <property name="geometry">
+       <rect>
+        <x>50</x>
+        <y>10</y>
+        <width>361</width>
+        <height>111</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #333; color: white; font-size: 27px; border-radius: 10px;</string>
+      </property>
+      <property name="text">
+       <string>체위 변경
+00:00:00 경과</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_menu">
+      <property name="geometry">
+       <rect>
+        <x>970</x>
+        <y>30</y>
+        <width>271</width>
+        <height>231</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white;             /* 글씨 색깔: 하얀색 */
+font-size: 80px;          /* 글씨 크기 (숫자 바꾸면 커져요!) */
+font-weight: bold;        /* 글씨 굵게 */
+
+text-align: right;        /* 가로 정렬: 오른쪽으로 보냄 */
+padding-right: 25px;      /* 오른쪽 벽에서 20px만큼 띄움 */
+
+padding-bottom: 120px;     /* ★ 세로 정렬 꼼수: 아래쪽에 여백을 줘서 글씨를 위로 밀어올림 */</string>
+      </property>
+      <property name="text">
+       <string>☰</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="lbl_check_breath">
+      <property name="geometry">
+       <rect>
+        <x>80</x>
+        <y>310</y>
+        <width>151</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white; font-size: 23px;</string>
+      </property>
+      <property name="text">
+       <string>호흡 운동 (0/2)</string>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chk_mouth">
+      <property name="enabled">
+       <bool>false</bool>
+      </property>
+      <property name="geometry">
+       <rect>
+        <x>210</x>
+        <y>260</y>
+        <width>41</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 28px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 28px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chk_breath">
+      <property name="enabled">
+       <bool>false</bool>
+      </property>
+      <property name="geometry">
+       <rect>
+        <x>240</x>
+        <y>310</y>
+        <width>41</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 28px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 28px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_emergency_call">
+      <property name="geometry">
+       <rect>
+        <x>980</x>
+        <y>310</y>
+        <width>261</width>
+        <height>221</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">
+color: white;
+font-weight: bold;
+font-size: 120px;
+border-radius: 15px;</string>
+      </property>
+      <property name="text">
+       <string>📞</string>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>20</width>
+        <height>20</height>
+       </size>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_guardian_menu">
+      <property name="geometry">
+       <rect>
+        <x>50</x>
+        <y>1810</y>
+        <width>331</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #2980b9;  /* 진한 파랑 */
+color: white;               /* 글씨는 흰색 */
+border-radius: 15px;        /* 모서리 둥글게 */
+font-size: 40px;            /* 글씨 크기 */
+font-weight: bold;          /* 글씨 굵게 */
+border: 2px solid #3498db;  /* 테두리 살짝 밝게 */</string>
+      </property>
+      <property name="text">
+       <string>👨‍⚕️ 보호자 메뉴</string>
+      </property>
+     </widget>
+     <widget class="QFrame" name="frame">
+      <property name="geometry">
+       <rect>
+        <x>30</x>
+        <y>140</y>
+        <width>311</width>
+        <height>231</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QFrame {
+    border: 3px solid white; /* 두께 3px 흰색 실선 */
+    border-radius: 20px;     /* 모서리를 둥글게 */
+    background-color: transparent; /* 배경은 투명하게 */
+}</string>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::StyledPanel</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+      <widget class="QCheckBox" name="chk_bed">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="geometry">
+        <rect>
+         <x>220</x>
+         <y>70</y>
+         <width>61</width>
+         <height>51</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 28px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 28px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </widget>
+     <widget class="QLabel" name="lbl_check_mouth">
+      <property name="geometry">
+       <rect>
+        <x>100</x>
+        <y>260</y>
+        <width>101</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white; font-size: 23px;</string>
+      </property>
+      <property name="text">
+       <string>구강 운동</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="lbl_check_bed">
+      <property name="geometry">
+       <rect>
+        <x>70</x>
+        <y>210</y>
+        <width>181</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white; font-size: 23px;</string>
+      </property>
+      <property name="text">
+       <string>체위 변경 (0/10)</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="lbl_check_bed_2">
+      <property name="geometry">
+       <rect>
+        <x>50</x>
+        <y>160</y>
+        <width>251</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white; font-size: 28px; font-weight: bold; </string>
+      </property>
+      <property name="text">
+       <string>&lt;환자 체크리스트&gt;</string>
+      </property>
+     </widget>
+     <zorder>frame</zorder>
+     <zorder>btn_bedsores</zorder>
+     <zorder>btn_menu</zorder>
+     <zorder>lbl_check_breath</zorder>
+     <zorder>chk_mouth</zorder>
+     <zorder>chk_breath</zorder>
+     <zorder>btn_emergency_call</zorder>
+     <zorder>btn_guardian_menu</zorder>
+     <zorder>lbl_check_mouth</zorder>
+     <zorder>lbl_check_bed</zorder>
+     <zorder>lbl_check_bed_2</zorder>
+    </widget>
+    <widget class="QWidget" name="page_3">
+     <widget class="QPushButton" name="btn_start_mouth">
+      <property name="geometry">
+       <rect>
+        <x>530</x>
+        <y>160</y>
+        <width>431</width>
+        <height>151</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #2ecc71;  /* 밝은 초록색 */
+color: white;               /* 글씨 흰색 */
+border-radius: 20px;        /* 둥글게 */
+font-size: 32px;            /* 글씨 아주 크게 */
+font-weight: bold;          /* 굵게 */
+border: 3px solid #ffffff;  /* 흰색 테두리로 강조 */</string>
+      </property>
+      <property name="text">
+       <string>👄 구강 운동 시작</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_start_breath">
+      <property name="geometry">
+       <rect>
+        <x>530</x>
+        <y>440</y>
+        <width>431</width>
+        <height>151</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #3498db;  /* 파란색 */
+color: white;
+border-radius: 20px;
+font-size: 30px;
+font-weight: bold;
+border: 3px solid #ecf0f1;</string>
+      </property>
+      <property name="text">
+       <string>🫁 호흡 운동 시작</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_back_home_1">
+      <property name="geometry">
+       <rect>
+        <x>950</x>
+        <y>1790</y>
+        <width>261</width>
+        <height>201</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">font-size: 20px;
+font-weight: bold;
+border: 3px solid white;
+
+color: white;
+</string>
+      </property>
+      <property name="text">
+       <string>돌아가기</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_start_body_check">
+      <property name="geometry">
+       <rect>
+        <x>530</x>
+        <y>720</y>
+        <width>431</width>
+        <height>151</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #ff6b6b;  /* 부드러운 빨강/핑크 */
+color: white;
+border-radius: 20px;
+font-size: 30px;
+font-weight: bold;
+border: 3px solid white;</string>
+      </property>
+      <property name="text">
+       <string>🩹 욕창 부위 체크</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_start_chatbot">
+      <property name="geometry">
+       <rect>
+        <x>530</x>
+        <y>1010</y>
+        <width>431</width>
+        <height>141</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">
+color: white;
+border-radius: 20px;
+font-size: 30px;
+font-weight: bold;
+border: 3px solid white;</string>
+      </property>
+      <property name="text">
+       <string>💬 AI 챗봇 대화</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="page_5">
+     <widget class="QCheckBox" name="chk_body_1">
+      <property name="geometry">
+       <rect>
+        <x>870</x>
+        <y>90</y>
+        <width>211</width>
+        <height>211</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 70px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 70px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chk_body_2">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>280</y>
+        <width>171</width>
+        <height>171</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 70px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 70px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chk_body_3">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>290</y>
+        <width>151</width>
+        <height>171</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 70px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 70px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chk_body_4">
+      <property name="geometry">
+       <rect>
+        <x>880</x>
+        <y>360</y>
+        <width>191</width>
+        <height>151</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 70px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 70px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chk_body_5">
+      <property name="geometry">
+       <rect>
+        <x>860</x>
+        <y>690</y>
+        <width>231</width>
+        <height>181</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 70px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 70px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chk_body_6">
+      <property name="geometry">
+       <rect>
+        <x>70</x>
+        <y>440</y>
+        <width>231</width>
+        <height>231</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 70px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 70px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chk_body_7">
+      <property name="geometry">
+       <rect>
+        <x>380</x>
+        <y>480</y>
+        <width>211</width>
+        <height>161</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 70px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 70px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QCheckBox" name="chk_body_8">
+      <property name="geometry">
+       <rect>
+        <x>880</x>
+        <y>1190</y>
+        <width>191</width>
+        <height>181</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 70px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 70px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_save_body_data">
+      <property name="geometry">
+       <rect>
+        <x>80</x>
+        <y>1580</y>
+        <width>541</width>
+        <height>411</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white;
+
+
+font-size: 30px;
+</string>
+      </property>
+      <property name="text">
+       <string>기록 저장하기</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_back_home_3">
+      <property name="geometry">
+       <rect>
+        <x>730</x>
+        <y>1580</y>
+        <width>551</width>
+        <height>421</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white;
+
+
+font-size: 30px;
+</string>
+      </property>
+      <property name="text">
+       <string>돌아가기</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label">
+      <property name="geometry">
+       <rect>
+        <x>30</x>
+        <y>70</y>
+        <width>1261</width>
+        <height>1391</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QCheckBox {
+    background-color: transparent; /* 배경 투명 */
+}
+
+QCheckBox::indicator {
+    width: 50px;  /* 너비 (원하는 만큼 키우세요) */
+    height: 50px; /* 높이 */
+    subcontrol-position: center; /* ★ 핵심: 정중앙 정렬! */
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>body_new.png</pixmap>
+      </property>
+      <property name="scaledContents">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <zorder>label</zorder>
+     <zorder>chk_body_1</zorder>
+     <zorder>chk_body_2</zorder>
+     <zorder>chk_body_3</zorder>
+     <zorder>chk_body_4</zorder>
+     <zorder>chk_body_5</zorder>
+     <zorder>chk_body_6</zorder>
+     <zorder>chk_body_7</zorder>
+     <zorder>chk_body_8</zorder>
+     <zorder>btn_save_body_data</zorder>
+     <zorder>btn_back_home_3</zorder>
+    </widget>
+    <widget class="QWidget" name="page_4">
+     <widget class="QLabel" name="lbl_func_title">
+      <property name="geometry">
+       <rect>
+        <x>190</x>
+        <y>90</y>
+        <width>1041</width>
+        <height>151</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: yellow; font-size: 30px; font-weight: bold;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="wordWrap">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="lbl_visual">
+      <property name="geometry">
+       <rect>
+        <x>240</x>
+        <y>330</y>
+        <width>921</width>
+        <height>531</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+     <widget class="QLabel" name="lbl_guide_text">
+      <property name="geometry">
+       <rect>
+        <x>190</x>
+        <y>950</y>
+        <width>1041</width>
+        <height>351</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white; font-size: 50px;</string>
+      </property>
+      <property name="text">
+       <string>시작하려면 버튼을 누르세요</string>
+      </property>
+      <property name="wordWrap">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_back_home_2">
+      <property name="geometry">
+       <rect>
+        <x>110</x>
+        <y>1420</y>
+        <width>1161</width>
+        <height>541</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white; font-size: 50px;</string>
+      </property>
+      <property name="text">
+       <string>돌아가기</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="page_6">
+     <widget class="QLabel" name="lbl_chatbot_frame">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>40</y>
+        <width>931</width>
+        <height>1671</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white; font-size: 50px;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="scaledContents">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_back_home_4">
+      <property name="geometry">
+       <rect>
+        <x>170</x>
+        <y>1760</y>
+        <width>561</width>
+        <height>321</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white; font-size: 50px;</string>
+      </property>
+      <property name="text">
+       <string>돌아가기</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>980</x>
+        <y>30</y>
+        <width>361</width>
+        <height>1561</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">QLabel {
+    color: yellow;           /* 글자색 노랑 */
+    font-size: 28px;         /* 글자 크기 20 */
+    font-weight: bold;       /* 글자 굵게 */
+    background-color: transparent; /* 배경 투명하게 (뒤에 화면 보이게) */
+}</string>
+      </property>
+      <property name="text">
+       <string>[자음: 시작화살표 ▲] 
+
+ㄱ : ▲▲▲▲ ㄲ : ▲▲▲◀ 
+ㄴ : ▲▲▲▶ ㄷ : ▲▲◀▲ 
+ㄸ : ▲▲◀◀ ㄹ : ▲▲◀▶ 
+ㅁ : ▲▲▶▲ ㅂ : ▲▲▶◀ 
+ㅃ : ▲▲▶▶ ㅅ : ▲◀▲▲ 
+ㅆ : ▲◀▲◀ ㅇ : ▲◀▲▶ 
+ㅈ : ▲◀◀▲ ㅉ : ▲◀◀◀ 
+ㅊ : ▲◀◀▶ ㅋ : ▲◀▶▲ 
+ㅌ : ▲◀▶◀ ㅍ : ▲◀▶▶ 
+ㅎ : ▲▶▲▲
+
+
+[모음: 시작화살표 ◀] 
+
+ㅏ : ◀▲▲▲ ㅐ : ◀▲▲◀ 
+ㅑ : ◀▲▲▶ ㅒ : ◀▲◀▲ 
+ㅓ : ◀▲◀◀ ㅔ : ◀▲◀▶ 
+ㅕ : ◀▲▶▲ ㅖ : ◀▲▶◀ 
+ㅗ : ◀▲▶▶ ㅘ : ◀◀▲▲ 
+ㅙ : ◀◀▲◀ ㅚ : ◀◀▲▶ 
+ㅛ : ◀◀◀▲ ㅜ : ◀◀◀◀ 
+ㅝ : ◀◀◀▶ ㅞ : ◀◀▶▲ 
+ㅟ : ◀◀▶◀ ㅠ : ◀◀▶▶ 
+ㅡ : ◀▶▲▲ ㅢ : ◀▶▲◀ 
+ㅣ : ◀▶▲▶
+
+
+[기능: 시작화살표 ▶] 
+
+전송 : ▶▲▲▲ 
+띄움 : ▶▲▲◀ 
+지움 : ▶▲▲▶</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="page_7">
+     <widget class="QLabel" name="lbl_sos_countdown">
+      <property name="geometry">
+       <rect>
+        <x>130</x>
+        <y>160</y>
+        <width>1071</width>
+        <height>371</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white; font-size: 80px; font-weight: bold; color: yellow;</string>
+      </property>
+      <property name="text">
+       <string>긴급 전화를 연결합니다...
+5초 남음</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_sos_cancel">
+      <property name="geometry">
+       <rect>
+        <x>90</x>
+        <y>640</y>
+        <width>1181</width>
+        <height>721</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true"> color: white; font-size: 50px; border-radius: 10px;</string>
+      </property>
+      <property name="text">
+       <string>취소 (닫기)</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="page_8">
+     <widget class="QPushButton" name="btn_view_report">
+      <property name="geometry">
+       <rect>
+        <x>380</x>
+        <y>160</y>
+        <width>671</width>
+        <height>221</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white;             /* 글씨 색깔: 하얀색 */
+font-size: 40px;          /* 글씨 크기 (숫자 바꾸면 커져요!) */
+font-weight: bold;
+background-color: gray;</string>
+      </property>
+      <property name="text">
+       <string>📈 욕창 진행 리포트 보기</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_back_home_guardian">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>1550</y>
+        <width>701</width>
+        <height>521</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white;
+font-size: 30px;
+font-weight: bold;
+text-align: right;
+padding-right: 20px;</string>
+      </property>
+      <property name="text">
+       <string>뒤로가기</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_go_mouth_report">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>560</y>
+        <width>661</width>
+        <height>251</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: white;             /* 글씨 색깔: 하얀색 */
+font-size: 40px;          /* 글씨 크기 (숫자 바꾸면 커져요!) */
+font-weight: bold;
+background-color: gray;</string>
+      </property>
+      <property name="text">
+       <string>🏃구강 운동 리포트 보기</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="page_9">
+     <widget class="QWidget" name="verticalLayoutWidget">
+      <property name="geometry">
+       <rect>
+        <x>50</x>
+        <y>280</y>
+        <width>1251</width>
+        <height>851</height>
+       </rect>
+      </property>
+      <layout class="QVBoxLayout" name="layout_report_graph"/>
+     </widget>
+     <widget class="QTableWidget" name="table_report_log">
+      <property name="geometry">
+       <rect>
+        <x>140</x>
+        <y>1160</y>
+        <width>1121</width>
+        <height>671</height>
+       </rect>
+      </property>
+      <column>
+       <property name="text">
+        <string>시간</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>아픈 부위</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>진행률</string>
+       </property>
+      </column>
+     </widget>
+     <widget class="QPushButton" name="btn_back_report">
+      <property name="geometry">
+       <rect>
+        <x>1090</x>
+        <y>1880</y>
+        <width>191</width>
+        <height>131</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: grey; color: white; font-size: 20px; border-radius: 10px;</string>
+      </property>
+      <property name="text">
+       <string>뒤로가기</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_3">
+      <property name="geometry">
+       <rect>
+        <x>180</x>
+        <y>40</y>
+        <width>1011</width>
+        <height>221</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">font-size: 35pt; color: white; font-weight: bold; padding: 20px;</string>
+      </property>
+      <property name="text">
+       <string>📈 욕창 진행 리포트</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="page_10">
+     <widget class="QLabel" name="lbl_mouth_report_title">
+      <property name="geometry">
+       <rect>
+        <x>230</x>
+        <y>70</y>
+        <width>901</width>
+        <height>251</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">font-size: 35pt; color: white; font-weight: bold; padding: 20px;</string>
+      </property>
+      <property name="text">
+       <string>🏃 구강 운동 분석 리포트</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+     <widget class="QTableWidget" name="table_mouth_report">
+      <property name="geometry">
+       <rect>
+        <x>150</x>
+        <y>510</y>
+        <width>1101</width>
+        <height>831</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #222222; color: white; gridline-color: #444444; font-size: 18pt;</string>
+      </property>
+      <property name="editTriggers">
+       <set>QAbstractItemView::NoEditTriggers</set>
+      </property>
+      <property name="selectionMode">
+       <enum>QAbstractItemView::NoSelection</enum>
+      </property>
+      <property name="rowCount">
+       <number>0</number>
+      </property>
+      <column>
+       <property name="text">
+        <string>시간</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>성공률(%)</string>
+       </property>
+      </column>
+     </widget>
+     <widget class="QLabel" name="lbl_active_analysis">
+      <property name="geometry">
+       <rect>
+        <x>140</x>
+        <y>1430</y>
+        <width>1101</width>
+        <height>141</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #1A1A1A; border: 2px solid #00FF00; border-radius: 15px;
+color: #00FF00; font-size: 22pt; padding: 15px; margin: 10px;</string>
+      </property>
+      <property name="text">
+       <string>데이터 분석 중...</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+      <property name="wordWrap">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_back_mouth_report">
+      <property name="geometry">
+       <rect>
+        <x>840</x>
+        <y>1700</y>
+        <width>431</width>
+        <height>321</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">height: 80px; background-color: #555555; color: white; font-size: 25pt; border-radius: 20px;</string>
+      </property>
+      <property name="text">
+       <string>뒤로 가기</string>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1356</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <tabstops>
+  <tabstop>btn_bedsores</tabstop>
+  <tabstop>btn_wake_up</tabstop>
+  <tabstop>btn_menu</tabstop>
+  <tabstop>chk_mouth</tabstop>
+  <tabstop>chk_breath</tabstop>
+  <tabstop>btn_emergency_call</tabstop>
+  <tabstop>btn_guardian_menu</tabstop>
+  <tabstop>chk_bed</tabstop>
+  <tabstop>btn_start_mouth</tabstop>
+  <tabstop>btn_start_breath</tabstop>
+  <tabstop>btn_back_home_1</tabstop>
+  <tabstop>btn_start_body_check</tabstop>
+  <tabstop>btn_start_chatbot</tabstop>
+  <tabstop>chk_body_1</tabstop>
+  <tabstop>chk_body_2</tabstop>
+  <tabstop>chk_body_3</tabstop>
+  <tabstop>chk_body_4</tabstop>
+  <tabstop>chk_body_5</tabstop>
+  <tabstop>chk_body_6</tabstop>
+  <tabstop>chk_body_7</tabstop>
+  <tabstop>chk_body_8</tabstop>
+  <tabstop>btn_save_body_data</tabstop>
+  <tabstop>btn_back_home_3</tabstop>
+  <tabstop>btn_back_home_2</tabstop>
+  <tabstop>btn_back_home_4</tabstop>
+  <tabstop>btn_sos_cancel</tabstop>
+  <tabstop>btn_view_report</tabstop>
+  <tabstop>btn_back_home_guardian</tabstop>
+  <tabstop>btn_go_mouth_report</tabstop>
+  <tabstop>table_report_log</tabstop>
+  <tabstop>btn_back_report</tabstop>
+  <tabstop>table_mouth_report</tabstop>
+  <tabstop>btn_back_mouth_report</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>
