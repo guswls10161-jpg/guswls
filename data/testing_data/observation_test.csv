@@ -1,0 +1,1596 @@
+visit_occurrence_id,person_id,observation_datetime,observation_concept_id,observation_concept_name,valuefilled
+817981800,420756027,2020-10-06 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+817981800,420756027,2020-10-14 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1710367917,177657874,2020-09-07 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1889785232,1701213331,2021-03-09 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+27309936,1656161134,2021-06-28 16:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+27309936,1656161134,2021-06-28 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1192893725,261357524,2020-04-25 13:00:00,44803020,Primary reason for admission,Médico
+1958442623,181817133,2019-07-05 10:00:00,44803020,Primary reason for admission,Médico
+429544284,2043132850,2020-02-04 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+413355158,518122255,2019-09-09 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+366134594,1586452218,2020-02-01 17:00:00,44803020,Primary reason for admission,Médico
+1971813742,416511735,2020-06-08 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1007406896,416511735,2020-11-30 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1255062914,407342122,2021-03-19 14:00:00,44803020,Primary reason for admission,Médico
+690853272,1450963454,2021-05-07 12:00:00,44803020,Primary reason for admission,Médico
+1012868004,1219180447,2019-12-13 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1012868004,1219180447,2019-12-13 23:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1254644881,129574067,2019-08-01 10:00:00,44803020,Primary reason for admission,Médico
+461567511,1800222245,2019-12-08 22:00:00,44803020,Primary reason for admission,Médico
+1433523529,118017523,2021-01-22 20:00:00,44803020,Primary reason for admission,Médico
+1538135835,1203857900,2021-09-28 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+799940383,1364093477,2022-07-02 01:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1980375209,1350825271,2021-01-21 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1980375209,1350825271,2021-02-04 16:00:00,44803020,Primary reason for admission,Médico
+1980375209,1350825271,2021-02-08 20:00:00,44803020,Primary reason for admission,Médico
+2072484694,1673416537,2019-09-03 09:00:00,44803020,Primary reason for admission,Médico
+1390684112,1415657127,2020-09-23 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+285141186,1064172683,2022-12-12 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1114327994,1628713237,2020-01-20 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1282954752,759286541,2021-03-05 16:00:00,44803020,Primary reason for admission,Médico
+741543441,808859035,2020-06-16 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+15837577,1155270753,2022-03-09 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+15837577,1155270753,2022-03-18 14:00:00,44803020,Primary reason for admission,Médico
+1369016125,1155270753,2022-04-01 15:00:00,44803020,Primary reason for admission,Médico
+338544429,1361484570,2019-11-17 17:00:00,44803020,Primary reason for admission,Médico
+1866165788,1050146506,2021-11-10 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1367246567,652720181,2021-03-10 14:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1060288636,652720181,2022-12-22 09:00:00,44803020,Primary reason for admission,Médico
+243283036,652720181,2023-05-12 19:00:00,44803020,Primary reason for admission,Médico
+751972404,652720181,2023-07-31 12:00:00,44803020,Primary reason for admission,Médico
+443006429,449214056,2020-06-30 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1236633558,109646407,2021-06-08 13:00:00,44803020,Primary reason for admission,Médico
+582272068,358859273,2022-08-13 22:00:00,44803020,Primary reason for admission,Médico
+1597135751,770894781,2021-07-05 14:00:00,44803020,Primary reason for admission,Médico
+894771526,864958775,2023-10-31 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1981318469,1503037516,2020-11-25 15:00:00,44803020,Primary reason for admission,Médico
+571332119,1030881595,2022-05-31 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1024192062,773074344,2020-10-21 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1754257786,1101192129,2020-10-31 04:00:00,44803020,Primary reason for admission,Médico
+1040280675,238387865,2022-05-25 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1093624550,1760619976,2022-07-14 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1093624550,1760619976,2022-07-22 18:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+718231516,1684993022,2020-05-27 01:00:00,44803020,Primary reason for admission,Médico
+16793054,936523860,2024-02-15 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+679942393,160570961,2020-09-29 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1326107711,855128670,2023-04-08 19:00:00,44803020,Primary reason for admission,Médico
+1066721357,659477349,2024-10-02 10:00:00,44803020,Primary reason for admission,Médico
+198313032,277575163,2023-02-22 16:00:00,44803020,Primary reason for admission,Médico
+202463990,277575163,2023-03-16 13:00:00,44803020,Primary reason for admission,Médico
+358335392,266865851,2019-08-27 20:00:00,44803020,Primary reason for admission,Médico
+1979448950,964130903,2019-10-09 16:00:00,44803020,Primary reason for admission,Médico
+1104375592,1179356901,2023-06-06 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+127800145,2119842540,2024-10-14 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1646582518,194255218,2024-02-21 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+976961241,1088593183,2023-03-06 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1190102537,299068481,2020-02-11 06:00:00,44803020,Primary reason for admission,Médico
+1190102537,299068481,2020-02-11 08:00:00,44803020,Primary reason for admission,Médico
+1190102537,299068481,2020-02-14 19:00:00,44803020,Primary reason for admission,Médico
+1190102537,299068481,2020-02-24 03:00:00,44803020,Primary reason for admission,Médico
+698721346,299068481,2020-04-18 19:00:00,44803020,Primary reason for admission,Médico
+136579497,1763260128,2024-06-23 04:00:00,44803020,Primary reason for admission,Médico
+136579497,1763260128,2024-06-25 20:00:00,44803020,Primary reason for admission,Médico
+1072897979,1599761310,2023-04-26 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1196654481,1125228277,2019-09-17 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+8825190,901461223,2020-09-07 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+691979059,901461223,2022-09-27 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+337742834,274785422,2021-11-06 21:00:00,44803020,Primary reason for admission,Médico
+1706970803,2074371295,2023-12-03 01:00:00,44803020,Primary reason for admission,Médico
+597737722,110984139,2020-05-20 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+858213017,638763416,2021-04-26 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+49998566,638763416,2021-11-15 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+818550552,275389921,2020-04-28 02:00:00,44803020,Primary reason for admission,Médico
+1533124098,1819431679,2023-08-29 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+998562343,61775441,2023-04-01 23:00:00,44803020,Primary reason for admission,Médico
+1098331816,782499118,2024-10-23 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1098331816,782499118,2024-10-31 16:00:00,44803020,Primary reason for admission,Médico
+1743361619,507814139,2022-05-17 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+345203800,507814139,2022-05-31 11:00:00,44803020,Primary reason for admission,Médico
+90345870,147558452,2020-06-09 12:00:00,44803020,Primary reason for admission,Médico
+438034922,2073507746,2021-05-28 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1963071819,54852407,2020-06-15 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1248287405,626856941,2023-06-27 13:00:00,44803020,Primary reason for admission,Médico
+1048474192,142023206,2020-11-09 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+549130225,142023206,2023-03-21 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2014763286,643617214,2021-01-17 16:00:00,44803020,Primary reason for admission,Médico
+2878226,2082917375,2023-06-26 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+114549764,1476176186,2024-08-27 20:00:00,44803020,Primary reason for admission,Médico
+706739479,1711108749,2020-11-24 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2133458879,270692122,2020-04-27 07:00:00,44803020,Primary reason for admission,Médico
+2133458879,270692122,2020-04-29 11:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+20064619,270692122,2022-02-14 16:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1367056655,270692122,2023-06-08 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+415606317,1810790820,2023-01-14 21:00:00,44803020,Primary reason for admission,Médico
+606619559,812118436,2020-06-03 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2089765976,1141160050,2022-09-28 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1150259455,1194965540,2023-03-13 06:00:00,44803020,Primary reason for admission,Médico
+1052236548,1561715661,2020-10-04 22:00:00,44803020,Primary reason for admission,Médico
+2057945676,172470792,2022-06-22 12:00:00,44803020,Primary reason for admission,Médico
+662413800,1895756443,2020-11-10 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+825150775,111567492,2020-03-02 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1058861330,111567492,2020-05-31 17:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1014915199,1658698606,2019-08-06 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+925219869,236334384,2022-04-27 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1895871908,93131879,2024-05-13 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1471942979,1944689305,2022-03-22 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1471942979,1944689305,2022-04-01 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1471942979,1944689305,2022-04-05 18:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1471942979,1944689305,2022-04-07 15:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1206880335,1390976781,2021-06-28 00:00:00,44803020,Primary reason for admission,Médico
+403655328,1727894900,2023-09-05 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1078424864,165533379,2019-09-10 17:00:00,44803020,Primary reason for admission,Médico
+2110864696,1743260284,2021-02-04 17:00:00,44803020,Primary reason for admission,Médico
+1355967504,460784712,2019-07-15 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1614796048,1978979121,2021-07-24 02:00:00,44803020,Primary reason for admission,Médico
+1640306023,1401821823,2021-10-10 23:00:00,44803020,Primary reason for admission,Médico
+1818541079,1401821823,2021-10-29 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+389823193,1410408904,2020-02-17 07:00:00,44803020,Primary reason for admission,Médico
+1064380405,1686729828,2020-11-20 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1869102630,164383524,2019-09-20 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1350425304,1965388104,2022-11-02 21:00:00,44803020,Primary reason for admission,Médico
+955972415,903082307,2021-10-20 13:00:00,44803020,Primary reason for admission,Médico
+1376307791,903082307,2023-03-28 05:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1092050353,903082307,2024-03-27 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1092050353,903082307,2024-04-10 16:00:00,44803020,Primary reason for admission,Médico
+1092050353,903082307,2024-04-11 18:00:00,44803020,Primary reason for admission,Médico
+2030253536,315370162,2019-10-25 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+264561947,1582821967,2020-08-26 18:00:00,44803020,Primary reason for admission,Médico
+264561947,1582821967,2020-09-07 18:00:00,44803020,Primary reason for admission,Médico
+264561947,1582821967,2020-09-15 12:00:00,44803020,Primary reason for admission,Médico
+721419887,610807836,2024-11-08 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+377518441,278600351,2023-06-12 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+611135451,1168891670,2020-06-02 01:00:00,44803020,Primary reason for admission,Médico
+639274332,162560078,2021-02-01 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1810883200,1993677397,2020-11-02 07:00:00,44803020,Primary reason for admission,Médico
+1092136255,905945837,2021-10-19 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1571045412,1247651251,2020-06-04 23:00:00,44803020,Primary reason for admission,Médico
+205989094,2086020240,2024-09-07 16:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+969443270,1941446973,2021-07-13 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+969443270,1941446973,2021-07-13 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+445956103,21020659,2020-12-09 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+331434751,1553507382,2019-11-15 23:00:00,44803020,Primary reason for admission,Médico
+882840290,538153047,2023-09-07 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1621054021,1220936545,2020-12-23 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1699032298,463030250,2022-12-29 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1032522422,655403607,2023-08-30 15:00:00,44803020,Primary reason for admission,Médico
+1032522422,655403607,2023-10-03 11:00:00,44803020,Primary reason for admission,Médico
+1900996974,655403607,2024-10-14 16:00:00,44803020,Primary reason for admission,Médico
+1107917048,1900936409,2022-09-15 09:00:00,44803020,Primary reason for admission,Médico
+2096681480,1900936409,2022-09-24 05:00:00,44803020,Primary reason for admission,Médico
+701628248,2086163635,2021-06-30 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+986048652,2086163635,2023-02-09 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1321286497,1480635824,2020-03-11 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+764316050,1480635824,2020-07-06 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+764316050,1480635824,2020-07-15 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+764316050,1480635824,2020-08-05 10:00:00,44803020,Primary reason for admission,Médico
+764316050,1480635824,2020-08-13 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1223552728,339571064,2019-10-24 20:00:00,44803020,Primary reason for admission,Médico
+1712724652,1138973819,2023-04-25 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+90594596,116096034,2023-10-04 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+775701003,116096034,2024-01-18 19:00:00,44803020,Primary reason for admission,Médico
+166118440,446047745,2020-06-19 18:00:00,44803020,Primary reason for admission,Médico
+2025676248,56345389,2024-06-11 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+838084100,1443622364,2024-02-12 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+916306021,669665705,2020-07-01 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1750758264,669665705,2023-10-08 14:00:00,44803020,Primary reason for admission,Médico
+1750758264,669665705,2023-10-19 17:00:00,44803020,Primary reason for admission,Médico
+165336378,669665705,2024-01-24 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+99633184,492798637,2024-05-31 23:00:00,44803020,Primary reason for admission,Médico
+737054681,600278774,2019-07-02 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+595990051,600278774,2020-05-29 19:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+467072309,600278774,2022-11-25 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+467072309,600278774,2022-12-13 23:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1169325369,1437492736,2023-01-09 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1826807599,1437492736,2023-02-08 19:00:00,44803020,Primary reason for admission,Médico
+1826807599,1437492736,2023-02-16 13:00:00,44803020,Primary reason for admission,Médico
+1826807599,1437492736,2023-03-08 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+257632802,758905059,2022-03-07 08:00:00,44803020,Primary reason for admission,Médico
+1008368163,758905059,2022-09-13 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+328568847,396289363,2024-06-17 09:00:00,44803020,Primary reason for admission,Médico
+1933381279,495042389,2021-01-31 19:00:00,44803020,Primary reason for admission,Médico
+1933381279,495042389,2021-02-05 13:00:00,44803020,Primary reason for admission,Médico
+83609946,495042389,2023-09-19 19:00:00,44803020,Primary reason for admission,Médico
+83609946,495042389,2023-10-01 20:00:00,44803020,Primary reason for admission,Médico
+83609946,495042389,2023-10-04 13:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1525901167,341152053,2020-10-21 00:00:00,44803020,Primary reason for admission,Médico
+175159685,567682368,2020-09-15 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1091897639,1633607468,2021-03-23 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2046205928,1086755892,2024-11-04 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2032008505,1566325924,2022-10-26 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1894604596,1562343324,2019-07-29 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1894604596,1562343324,2019-08-05 14:00:00,44803020,Primary reason for admission,Médico
+2124025402,1032572142,2021-10-01 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1571714944,496181546,2022-07-13 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+626473859,45150798,2023-05-16 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+626473859,45150798,2023-05-23 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1751090715,1877710433,2021-04-14 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1557347149,1922661270,2022-05-18 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+526288601,2030619273,2020-11-19 14:00:00,44803020,Primary reason for admission,Médico
+1369497705,1456968960,2023-04-30 13:00:00,44803020,Primary reason for admission,Médico
+1055226466,922301648,2022-03-15 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1991548874,341646956,2020-12-29 14:00:00,44803020,Primary reason for admission,Médico
+1674959251,2023211277,2019-10-02 13:00:00,44803020,Primary reason for admission,Médico
+433144570,752533110,2020-11-09 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+655255796,641382880,2022-07-12 04:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1738888570,12262870,2020-11-05 16:00:00,44803020,Primary reason for admission,Médico
+274542522,1419356426,2024-01-19 14:00:00,44803020,Primary reason for admission,Médico
+274542522,1419356426,2024-01-21 16:00:00,44803020,Primary reason for admission,Médico
+777691825,1557541654,2024-09-27 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1526096822,1789377436,2023-02-16 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+412964353,1738239452,2023-11-18 22:00:00,44803020,Primary reason for admission,Médico
+1921040188,533895383,2021-10-09 16:00:00,44803020,Primary reason for admission,Médico
+984274223,22017057,2021-02-17 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+984274223,22017057,2021-02-23 06:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+100821462,1225706274,2020-11-06 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+766255455,1225706274,2022-06-03 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1728780220,1011176865,2020-07-21 20:00:00,44803020,Primary reason for admission,Médico
+1199463258,69460441,2020-09-15 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+538686678,69460441,2022-03-09 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+29887976,934204939,2021-03-30 12:00:00,44803020,Primary reason for admission,Médico
+1565348836,267287135,2024-06-20 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+394831959,1149391239,2022-09-16 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+735954099,1149391239,2022-10-28 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+735954099,1149391239,2022-11-07 00:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+603898625,259007250,2024-07-18 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+74333356,43447651,2021-06-08 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+995662321,43447651,2024-09-25 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1611376418,1028596468,2024-09-10 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+528942393,17513229,2022-01-11 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1378346306,1021411095,2023-10-27 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1194699571,2070118300,2020-12-24 01:00:00,44803020,Primary reason for admission,Médico
+1416735586,2070118300,2023-09-25 07:00:00,44803020,Primary reason for admission,Médico
+1473215753,1061670786,2022-08-04 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1704127955,1061670786,2023-10-18 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+875125865,196645458,2020-05-12 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1242397912,1665290835,2021-06-30 18:00:00,44803020,Primary reason for admission,Médico
+201332249,1993125034,2021-03-08 13:00:00,44803020,Primary reason for admission,Médico
+980813108,1755645666,2020-06-22 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1208118815,1683436332,2020-07-06 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1921149603,1683436332,2020-08-31 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1921149603,1683436332,2020-09-09 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1921149603,1683436332,2020-09-18 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1063694476,1683436332,2021-02-15 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2055364274,417931319,2021-11-30 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2055364274,417931319,2021-12-05 19:00:00,44803020,Primary reason for admission,Médico
+2055364274,417931319,2021-12-16 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1516125623,417931319,2023-02-15 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+68256008,148996702,2022-10-04 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+446531922,1196696445,2020-01-21 16:00:00,44803020,Primary reason for admission,Médico
+446531922,1196696445,2020-02-14 20:00:00,44803020,Primary reason for admission,Médico
+446531922,1196696445,2020-02-20 14:00:00,44803020,Primary reason for admission,Médico
+212094078,1750453637,2019-11-16 11:00:00,44803020,Primary reason for admission,Médico
+1382771709,1750453637,2021-02-08 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+786191816,1472002370,2022-04-22 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+50964937,861390681,2023-09-27 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1089929250,32115000,2019-10-25 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1331280312,1270264494,2023-03-04 18:00:00,44803020,Primary reason for admission,Médico
+1771736340,1270264494,2023-05-30 19:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1932536234,1270264494,2024-06-04 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1492668981,2084838777,2021-06-20 18:00:00,44803020,Primary reason for admission,Médico
+611378007,2084838777,2022-09-28 18:00:00,44803020,Primary reason for admission,Médico
+1552488723,3858662,2019-11-29 00:00:00,44803020,Primary reason for admission,Médico
+1712836728,95941510,2020-09-22 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+350974958,347997837,2022-09-01 10:00:00,44803020,Primary reason for admission,Médico
+275112383,347997837,2022-12-12 05:00:00,44803020,Primary reason for admission,Médico
+1955554674,1435416505,2019-07-15 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1382555248,1558268039,2023-08-11 10:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2002899202,111736707,2021-03-03 14:00:00,44803020,Primary reason for admission,Médico
+1298380138,21469955,2020-02-12 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1750179983,1160667277,2020-05-27 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1071698290,976081453,2020-09-19 21:00:00,44803020,Primary reason for admission,Médico
+1398606012,1357784222,2019-09-26 18:00:00,44803020,Primary reason for admission,Médico
+1787895263,13853006,2024-07-11 19:00:00,44803020,Primary reason for admission,Médico
+729265364,329160979,2020-11-23 09:00:00,44803020,Primary reason for admission,Médico
+131122354,329160979,2021-01-14 18:00:00,44803020,Primary reason for admission,Médico
+131122354,329160979,2021-01-23 16:00:00,44803020,Primary reason for admission,Médico
+1363440600,102987793,2023-04-13 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+235989711,1069384176,2023-05-23 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+502830731,560248882,2019-09-13 13:00:00,44803020,Primary reason for admission,Médico
+1560701336,1092860824,2020-12-01 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1071391650,1092860824,2021-10-29 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1846800136,2132593474,2024-02-20 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1998883402,200937774,2022-03-30 17:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+947225758,1337318359,2020-11-04 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+672783849,172050250,2020-01-18 16:00:00,44803020,Primary reason for admission,Médico
+1623153631,270232886,2022-03-30 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+515577814,452807417,2024-10-29 13:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+868599594,1480457475,2024-10-10 04:00:00,44803020,Primary reason for admission,Médico
+244682333,1627067416,2022-05-11 23:00:00,44803020,Primary reason for admission,Médico
+615056269,128733778,2023-12-16 22:00:00,44803020,Primary reason for admission,Médico
+300548202,497921429,2020-01-01 22:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+628555552,1019873565,2024-01-13 01:00:00,44803020,Primary reason for admission,Médico
+1511806815,1340817470,2024-03-27 06:00:00,44803020,Primary reason for admission,Médico
+1511806815,1340817470,2024-04-15 11:00:00,44803020,Primary reason for admission,Médico
+1511806815,1340817470,2024-04-30 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+992003319,1340817470,2024-06-08 04:00:00,44803020,Primary reason for admission,Médico
+1586236852,636338370,2021-09-15 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1236648130,1131474986,2019-07-03 14:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1302269530,397647196,2021-01-26 12:00:00,44803020,Primary reason for admission,Médico
+1302269530,397647196,2021-01-28 11:00:00,44803020,Primary reason for admission,Médico
+837906562,131037760,2021-05-05 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1140013151,1181934424,2021-10-18 01:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1140013151,1181934424,2021-12-16 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1968287161,357779602,2022-10-04 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+546711446,413248725,2021-05-12 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+9827448,413248725,2021-06-07 17:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+597100061,413248725,2022-12-14 11:00:00,44803020,Primary reason for admission,Médico
+612916725,246970099,2022-11-30 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+595058859,936422826,2023-08-28 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1421721233,377007634,2024-09-20 14:00:00,44803020,Primary reason for admission,Médico
+2071632268,1438296992,2022-05-16 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+129237699,562535102,2020-11-16 13:00:00,44803020,Primary reason for admission,Médico
+1713953424,562535102,2021-04-02 12:00:00,44803020,Primary reason for admission,Médico
+2101471095,1408156550,2020-12-14 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1530955788,48864096,2019-09-04 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1595182504,48864096,2021-01-25 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+660527742,737309121,2021-04-28 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+702426605,275229974,2020-09-22 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1398101480,1615273922,2023-02-25 02:00:00,44803020,Primary reason for admission,Médico
+818089104,1028444410,2023-02-26 17:00:00,44803020,Primary reason for admission,Médico
+1140871087,1382211533,2022-02-15 04:00:00,44803020,Primary reason for admission,Médico
+2051655068,1382211533,2022-03-04 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1423662791,2077672200,2021-05-25 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1038208403,1082458599,2024-05-22 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+486144941,933897309,2022-07-01 20:00:00,44803020,Primary reason for admission,Médico
+374228940,933897309,2023-11-23 20:00:00,44803020,Primary reason for admission,Médico
+1111782114,933897309,2023-12-27 00:00:00,44803020,Primary reason for admission,Médico
+1111782114,933897309,2023-12-29 19:00:00,44803020,Primary reason for admission,Médico
+1368859676,933897309,2024-05-29 12:00:00,44803020,Primary reason for admission,Médico
+451838963,1980164307,2021-07-09 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1483770196,1113803820,2022-01-15 06:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+987903810,1314270975,2021-03-22 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1432539208,1314270975,2021-04-19 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+872642153,1314270975,2021-07-19 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+798166024,1314270975,2022-03-21 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1959865185,1314270975,2024-11-11 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+537769983,280531880,2024-01-05 23:00:00,44803020,Primary reason for admission,Médico
+1834560606,280531880,2024-01-21 12:00:00,44803020,Primary reason for admission,Médico
+1834560606,280531880,2024-02-20 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1185943530,499537426,2021-05-27 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1794729547,1486502204,2020-06-10 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+595093245,1635427251,2024-05-26 09:00:00,44803020,Primary reason for admission,Médico
+998100942,1060972750,2023-05-16 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1398939977,1469708896,2019-07-04 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1398939977,1469708896,2019-08-13 21:00:00,44803020,Primary reason for admission,Médico
+1895354725,1085186641,2023-07-27 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1179339703,1085186641,2023-08-10 05:00:00,44803020,Primary reason for admission,Médico
+1179339703,1085186641,2023-08-29 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1547065575,1748125180,2024-11-13 23:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+398724103,91483993,2019-08-06 02:00:00,44803020,Primary reason for admission,Médico
+398724103,91483993,2019-08-29 19:00:00,44803020,Primary reason for admission,Médico
+178899138,59888934,2023-03-28 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2042406686,1751707662,2022-05-04 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1660060704,969330735,2022-11-29 20:00:00,44803020,Primary reason for admission,Médico
+1798947776,1298300600,2024-02-12 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+719328985,1298300600,2024-09-03 10:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2123948903,606569464,2019-11-25 03:00:00,44803020,Primary reason for admission,Médico
+368743159,1286756260,2019-08-23 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1376652420,1286756260,2020-02-27 16:00:00,44803020,Primary reason for admission,Médico
+1841117502,1286756260,2020-10-20 00:00:00,44803020,Primary reason for admission,Médico
+582134219,1286756260,2021-02-14 16:00:00,44803020,Primary reason for admission,Médico
+750023913,1286756260,2021-02-21 23:00:00,44803020,Primary reason for admission,Médico
+382279785,1286756260,2021-02-23 21:00:00,44803020,Primary reason for admission,Médico
+401498838,1286756260,2021-03-18 10:00:00,44803020,Primary reason for admission,Médico
+551377437,1286756260,2021-03-23 19:00:00,44803020,Primary reason for admission,Médico
+1785476309,1286756260,2022-05-07 22:00:00,44803020,Primary reason for admission,Médico
+118406522,1286756260,2023-02-13 11:00:00,44803020,Primary reason for admission,Médico
+275813012,1286756260,2023-07-21 21:00:00,44803020,Primary reason for admission,Médico
+641684000,201269681,2022-04-05 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+533425484,50117820,2024-02-08 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+627173070,2049258198,2023-03-22 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+509285239,528934802,2022-04-10 18:00:00,44803020,Primary reason for admission,Médico
+1376500943,97528575,2023-09-21 15:00:00,44803020,Primary reason for admission,Médico
+1100963719,1423666992,2021-11-14 14:00:00,44803020,Primary reason for admission,Médico
+1240147738,666519127,2020-03-02 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1745245884,666519127,2020-05-19 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+125371857,1968600530,2019-08-08 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+913148184,231244804,2024-03-12 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1143902641,1161620944,2023-01-21 22:00:00,44803020,Primary reason for admission,Médico
+1567288075,1161620944,2024-10-27 15:00:00,44803020,Primary reason for admission,Médico
+982195966,1803346677,2023-07-13 03:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2092623943,403334769,2021-02-16 16:00:00,44803020,Primary reason for admission,Médico
+565222942,1867626684,2021-02-23 11:00:00,44803020,Primary reason for admission,Médico
+565222942,1867626684,2021-03-03 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+834668701,1867626684,2021-12-15 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+606514472,590164611,2021-06-07 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+394234699,577950914,2019-07-03 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+65149574,162297005,2019-09-14 14:00:00,44803020,Primary reason for admission,Médico
+65149574,162297005,2019-09-27 15:00:00,44803020,Primary reason for admission,Médico
+1557794774,805830834,2021-06-26 19:00:00,44803020,Primary reason for admission,Médico
+1557794774,805830834,2021-07-09 16:00:00,44803020,Primary reason for admission,Médico
+1249281731,702577968,2020-04-15 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1249281731,702577968,2020-04-27 00:00:00,44803020,Primary reason for admission,Médico
+1249281731,702577968,2020-05-08 15:00:00,44803020,Primary reason for admission,Médico
+879981528,702577968,2021-05-18 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+484786447,702577968,2021-07-14 20:00:00,44803020,Primary reason for admission,Médico
+399173339,702577968,2021-08-12 13:00:00,44803020,Primary reason for admission,Médico
+884460271,926189282,2023-01-09 13:00:00,44803020,Primary reason for admission,Médico
+1502804123,926189282,2023-01-25 11:00:00,44803020,Primary reason for admission,Médico
+413376070,582244188,2022-01-12 01:00:00,44803020,Primary reason for admission,Médico
+614941128,1514701452,2020-10-05 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1495223981,962305936,2019-10-04 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1418713753,962305936,2021-11-12 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1715927349,1724585482,2023-04-17 04:00:00,44803020,Primary reason for admission,Médico
+1746389463,556538945,2024-10-15 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+353074433,1993866509,2019-10-09 00:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+812966086,1878235937,2020-10-05 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1200994059,417806765,2020-10-28 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+123806955,417806765,2024-09-28 17:00:00,44803020,Primary reason for admission,Médico
+1992856355,1640279424,2019-07-11 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2130543617,1640279424,2021-02-12 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1940885350,1640279424,2022-07-31 19:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+459998991,1640279424,2023-11-28 00:00:00,44803020,Primary reason for admission,Médico
+1528877843,208529844,2024-08-11 00:00:00,44803020,Primary reason for admission,Médico
+1708364437,1432911514,2019-08-29 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1652117531,1012319420,2024-02-15 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+343623856,1429375487,2022-12-09 19:00:00,44803020,Primary reason for admission,Médico
+1623609836,924230729,2023-03-15 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1517031776,924230729,2023-09-12 14:00:00,44803020,Primary reason for admission,Médico
+1517031776,924230729,2023-09-27 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+433940313,1936219655,2019-12-11 17:00:00,44803020,Primary reason for admission,Médico
+433940313,1936219655,2019-12-16 19:00:00,44803020,Primary reason for admission,Médico
+1200600969,1895560744,2023-01-11 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1901150451,851997392,2019-09-14 12:00:00,44803020,Primary reason for admission,Médico
+736237982,851997392,2020-08-27 11:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+567297352,851997392,2020-12-03 01:00:00,44803020,Primary reason for admission,Médico
+389112919,851997392,2021-12-13 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+389112919,851997392,2021-12-19 17:00:00,44803020,Primary reason for admission,Médico
+389112919,851997392,2021-12-23 15:00:00,44803020,Primary reason for admission,Médico
+428724865,851997392,2023-01-27 15:00:00,44803020,Primary reason for admission,Médico
+2040417364,1505336222,2024-01-09 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1163343822,282113439,2021-05-26 13:00:00,44803020,Primary reason for admission,Médico
+1531858475,1862013667,2020-10-07 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1990883494,1862013667,2024-03-06 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1624114844,1398774163,2019-09-17 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1324006791,1398774163,2021-06-16 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2038130604,1189720976,2019-10-15 05:00:00,44803020,Primary reason for admission,Médico
+1924947321,22085163,2020-08-01 20:00:00,44803020,Primary reason for admission,Médico
+639943669,446861002,2019-10-22 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+971789454,446861002,2021-05-05 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+952045539,1810259560,2024-05-11 23:00:00,44803020,Primary reason for admission,Médico
+952045539,1810259560,2024-05-28 10:00:00,44803020,Primary reason for admission,Médico
+233029711,658000713,2019-07-24 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1367886640,1058425190,2023-09-21 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1954842276,1347412815,2021-08-09 15:00:00,44803020,Primary reason for admission,Médico
+157632299,477071301,2020-07-21 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+983998092,1694458089,2019-10-25 15:00:00,44803020,Primary reason for admission,Médico
+56858239,933520586,2023-01-21 21:00:00,44803020,Primary reason for admission,Médico
+2107454336,1766685058,2022-02-20 00:00:00,44803020,Primary reason for admission,Médico
+290142108,1356224027,2022-03-09 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1584189822,523022767,2021-12-19 04:00:00,44803020,Primary reason for admission,Médico
+285374744,523022767,2022-05-21 02:00:00,44803020,Primary reason for admission,Médico
+1827243114,1731327014,2021-04-09 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1634430957,1731327014,2023-03-06 05:00:00,44803020,Primary reason for admission,Médico
+1935437633,947470237,2021-02-24 08:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1642166219,15291249,2022-01-21 15:00:00,44803020,Primary reason for admission,Médico
+2087376385,590401066,2020-03-12 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1520533829,849937776,2021-04-06 15:00:00,44803020,Primary reason for admission,Médico
+872091477,1860280606,2021-09-30 12:00:00,44803020,Primary reason for admission,Médico
+1399342675,1773670630,2019-08-06 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+647554927,1933610251,2023-02-07 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+970142382,1933610251,2023-02-18 14:00:00,44803020,Primary reason for admission,Médico
+1704434788,183665886,2020-01-20 16:00:00,44803020,Primary reason for admission,Médico
+1523889868,1558864652,2020-01-30 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1523889868,1558864652,2020-02-04 05:00:00,44803020,Primary reason for admission,Médico
+1489279711,696338095,2020-08-03 23:00:00,44803020,Primary reason for admission,Médico
+1154107977,696338095,2022-12-19 01:00:00,44803020,Primary reason for admission,Médico
+397554589,1245116054,2020-01-21 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1773763103,1245116054,2020-05-04 19:00:00,44803020,Primary reason for admission,Médico
+630996519,1245116054,2024-02-06 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+723583089,1245116054,2024-05-23 11:00:00,44803020,Primary reason for admission,Médico
+31547202,764831094,2022-10-30 12:00:00,44803020,Primary reason for admission,Médico
+17727322,1884586534,2022-09-22 21:00:00,44803020,Primary reason for admission,Médico
+363320321,1682981992,2022-02-25 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1074988689,1682981992,2023-03-20 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+812146415,147955367,2021-05-31 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+55575290,1535753612,2024-01-04 14:00:00,44803020,Primary reason for admission,Médico
+514872545,2121195441,2020-09-04 17:00:00,44803020,Primary reason for admission,Médico
+514872545,2121195441,2020-09-19 01:00:00,44803020,Primary reason for admission,Médico
+638422271,1849232538,2020-01-21 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+922210216,1849232538,2021-06-10 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2130010094,482484858,2024-11-04 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1335737715,723621066,2021-08-28 09:00:00,44803020,Primary reason for admission,Médico
+87088915,1951349031,2020-05-17 22:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+2060709150,2031147521,2023-12-10 02:00:00,44803020,Primary reason for admission,Médico
+2060709150,2031147521,2023-12-15 12:00:00,44803020,Primary reason for admission,Médico
+1777849133,2031147521,2024-01-31 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+947558098,1486823489,2019-07-08 12:00:00,44803020,Primary reason for admission,Médico
+947558098,1486823489,2019-09-09 12:00:00,44803020,Primary reason for admission,Médico
+126500638,2123006022,2020-03-04 00:00:00,44803020,Primary reason for admission,Médico
+1934436059,744932399,2023-07-13 14:00:00,44803020,Primary reason for admission,Médico
+1303454373,744932399,2023-11-29 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2147309371,2057288100,2019-12-01 18:00:00,44803020,Primary reason for admission,Médico
+99924724,1566636722,2019-10-09 11:00:00,44803020,Primary reason for admission,Médico
+99924724,1566636722,2019-10-23 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1794848925,430354930,2019-08-13 12:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1322094381,327014413,2020-02-27 19:00:00,44803020,Primary reason for admission,Médico
+1673781251,1062121366,2024-04-12 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+147788418,1147763569,2019-07-17 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1775862873,1981418140,2021-01-26 23:00:00,44803020,Primary reason for admission,Médico
+2037081644,1541988266,2019-09-10 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+732960230,388505421,2023-03-10 04:00:00,44803020,Primary reason for admission,Médico
+732960230,388505421,2023-06-05 14:00:00,44803020,Primary reason for admission,Médico
+1230528177,1363997837,2020-06-25 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1230528177,1363997837,2020-06-28 22:00:00,44803020,Primary reason for admission,Médico
+1230528177,1363997837,2020-07-05 20:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+2056709881,1363997837,2021-04-22 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+901559490,1740513783,2022-07-21 14:00:00,44803020,Primary reason for admission,Médico
+382667286,326801587,2019-07-04 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1402377275,326801587,2020-03-13 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1055665305,616620435,2019-08-29 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1254957508,1256255838,2019-10-23 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+268183698,1084650463,2019-07-23 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1786970424,1076726875,2020-05-25 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1461022102,1076726875,2022-02-28 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+604666985,1076726875,2023-12-06 08:00:00,44803020,Primary reason for admission,Médico
+1978139881,267822253,2019-07-08 17:00:00,44803020,Primary reason for admission,Médico
+760282995,1912635450,2023-09-29 11:00:00,44803020,Primary reason for admission,Médico
+979048872,1888119311,2019-07-11 17:00:00,44803020,Primary reason for admission,Médico
+1101526264,1888119311,2020-01-17 04:00:00,44803020,Primary reason for admission,Médico
+1437409940,404491945,2019-09-19 18:00:00,44803020,Primary reason for admission,Médico
+684156403,2080446894,2019-09-30 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1865533196,1495951902,2019-07-19 09:00:00,44803020,Primary reason for admission,Médico
+1865533196,1495951902,2019-07-24 15:00:00,44803020,Primary reason for admission,Médico
+1655514777,1306591281,2019-08-17 02:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1655514777,1306591281,2019-08-21 03:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+947137829,1602917688,2019-11-20 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1489581093,1602917688,2019-11-29 21:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+359787060,1692134516,2019-07-26 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+359787060,1692134516,2019-08-21 10:00:00,44803020,Primary reason for admission,Médico
+198475876,491549089,2019-07-31 12:00:00,44803020,Primary reason for admission,Médico
+214388084,1367255031,2019-09-11 02:00:00,44803020,Primary reason for admission,Médico
+1437431877,1367255031,2019-10-12 16:00:00,44803020,Primary reason for admission,Médico
+1432357463,315037339,2024-07-29 10:00:00,44803020,Primary reason for admission,Médico
+1478965969,1143770086,2019-11-08 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1909102312,1655700454,2021-09-22 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+59533362,967282910,2019-08-12 21:00:00,44803020,Primary reason for admission,Médico
+1019822140,912961325,2021-04-08 13:00:00,44803020,Primary reason for admission,Médico
+1188028328,393529185,2020-03-16 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1759249917,393529185,2023-11-07 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+294901843,400901343,2023-02-03 16:00:00,44803020,Primary reason for admission,Médico
+1585517037,1422452326,2019-08-19 20:00:00,44803020,Primary reason for admission,Médico
+1585517037,1422452326,2019-09-02 19:00:00,44803020,Primary reason for admission,Médico
+921150711,2068519091,2021-12-24 12:00:00,44803020,Primary reason for admission,Médico
+933267533,903065516,2019-08-21 18:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1559266121,928592919,2020-10-09 01:00:00,44803020,Primary reason for admission,Médico
+1822245736,928592919,2024-10-28 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2111884906,1762872941,2019-08-28 21:00:00,44803020,Primary reason for admission,Médico
+1779846172,1011142899,2019-09-19 17:00:00,44803020,Primary reason for admission,Médico
+12030143,930400772,2019-09-19 17:00:00,44803020,Primary reason for admission,Médico
+1592172475,1591022040,2020-10-31 12:00:00,44803020,Primary reason for admission,Médico
+907365080,1878639447,2020-02-12 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+712092733,1112700975,2019-10-23 19:00:00,44803020,Primary reason for admission,Médico
+712092733,1112700975,2019-12-03 18:00:00,44803020,Primary reason for admission,Médico
+1950262211,1933116588,2022-01-20 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1950262211,1933116588,2022-01-21 00:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+341000437,784097909,2020-05-19 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+879475099,784097909,2020-07-16 22:00:00,44803020,Primary reason for admission,Médico
+879475099,784097909,2020-07-22 13:00:00,44803020,Primary reason for admission,Médico
+879475099,784097909,2020-07-24 17:00:00,44803020,Primary reason for admission,Médico
+879475099,784097909,2020-07-29 20:00:00,44803020,Primary reason for admission,Médico
+1117431214,784097909,2020-09-16 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+599270638,1701007601,2019-09-13 21:00:00,44803020,Primary reason for admission,Médico
+1039014359,1735284352,2019-09-26 17:00:00,44803020,Primary reason for admission,Médico
+570878383,1735284352,2019-11-16 14:00:00,44803020,Primary reason for admission,Médico
+570878383,1735284352,2019-11-23 15:00:00,44803020,Primary reason for admission,Médico
+1396044059,1048663729,2019-10-15 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+370206000,1778101184,2020-04-15 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+652389828,220304913,2020-01-09 19:00:00,44803020,Primary reason for admission,Médico
+54138759,1785940475,2019-10-30 02:00:00,44803020,Primary reason for admission,Médico
+54138759,1785940475,2019-11-17 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+54138759,1785940475,2020-02-01 09:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+54138759,1785940475,2020-02-13 11:00:00,44803020,Primary reason for admission,Médico
+54138759,1785940475,2020-03-03 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1931807272,1473458040,2019-09-25 19:00:00,44803020,Primary reason for admission,Médico
+1931807272,1473458040,2019-10-28 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1931807272,1473458040,2019-11-07 15:00:00,44803020,Primary reason for admission,Médico
+1672916128,1473458040,2020-12-02 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+78712425,1534307217,2020-06-18 19:00:00,44803020,Primary reason for admission,Médico
+1024654493,2087964122,2022-06-21 13:00:00,44803020,Primary reason for admission,Médico
+1024654493,2087964122,2022-07-01 08:00:00,44803020,Primary reason for admission,Médico
+394867873,1735419864,2020-06-13 21:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+709330625,739772427,2019-09-26 05:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+2089827656,159889071,2020-01-02 23:00:00,44803020,Primary reason for admission,Médico
+974006982,649849200,2019-09-28 00:00:00,44803020,Primary reason for admission,Médico
+1159070086,1716940381,2019-10-16 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1508124594,1515168096,2024-03-19 11:00:00,44803020,Primary reason for admission,Médico
+296057917,1475111673,2019-10-04 20:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+2009427674,635714001,2019-10-25 22:00:00,44803020,Primary reason for admission,Médico
+329564639,1349849795,2019-10-15 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1075791606,1349849795,2023-11-16 18:00:00,44803020,Primary reason for admission,Médico
+1059307697,1369409995,2020-04-28 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+822492483,805090758,2020-01-13 23:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1756211268,311919893,2019-10-10 13:00:00,44803020,Primary reason for admission,Médico
+2080376409,321737163,2020-01-29 03:00:00,44803020,Primary reason for admission,Médico
+2080376409,321737163,2020-02-02 12:00:00,44803020,Primary reason for admission,Médico
+972277096,1370759338,2020-08-14 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+759931435,1370759338,2021-01-07 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1113817496,997093670,2019-11-05 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1119504295,997093670,2019-12-17 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1109784514,997093670,2024-01-09 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+121974482,1492252725,2020-01-15 20:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+206460447,1391100385,2021-09-29 18:00:00,44803020,Primary reason for admission,Médico
+206460447,1391100385,2021-10-09 18:00:00,44803020,Primary reason for admission,Médico
+350768396,1438395279,2021-12-09 06:00:00,44803020,Primary reason for admission,Médico
+1159955639,1670418155,2024-09-30 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1607106111,1670418155,2024-11-01 00:00:00,44803020,Primary reason for admission,Médico
+1138890727,392906894,2019-12-17 05:00:00,44803020,Primary reason for admission,Médico
+448016583,925070456,2019-12-01 04:00:00,44803020,Primary reason for admission,Médico
+1751420807,1817207062,2019-12-19 13:00:00,44803020,Primary reason for admission,Médico
+854311965,1413374037,2020-01-15 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+854311965,1413374037,2020-01-17 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1506134461,61312813,2019-11-18 08:00:00,44803020,Primary reason for admission,Médico
+1852387149,1438410724,2019-12-23 17:00:00,44803020,Primary reason for admission,Médico
+1928828301,571906169,2022-08-01 18:00:00,44803020,Primary reason for admission,Médico
+435686450,1215622921,2019-11-24 12:00:00,44803020,Primary reason for admission,Médico
+1223148603,2139900904,2024-10-03 18:00:00,44803020,Primary reason for admission,Médico
+1108376629,2023383899,2022-11-04 14:00:00,44803020,Primary reason for admission,Médico
+1108376629,2023383899,2022-12-05 11:00:00,44803020,Primary reason for admission,Médico
+1108376629,2023383899,2022-12-19 15:00:00,44803020,Primary reason for admission,Médico
+1440466004,1045720802,2020-09-07 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1547689840,1779396506,2020-01-13 12:00:00,44803020,Primary reason for admission,Médico
+1354319665,1419819496,2019-11-28 02:00:00,44803020,Primary reason for admission,Médico
+984382446,285622228,2019-12-05 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1003012354,1823929535,2020-01-17 20:00:00,44803020,Primary reason for admission,Médico
+386867611,1504870440,2019-11-29 17:00:00,44803020,Primary reason for admission,Médico
+386867611,1504870440,2020-01-12 00:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+386867611,1504870440,2020-01-30 19:00:00,44803020,Primary reason for admission,Médico
+386867611,1504870440,2020-01-31 04:00:00,44803020,Primary reason for admission,Médico
+386867611,1504870440,2020-02-04 20:00:00,44803020,Primary reason for admission,Médico
+1646770788,236341157,2023-06-15 16:00:00,44803020,Primary reason for admission,Médico
+258223036,1181133039,2019-12-01 23:00:00,44803020,Primary reason for admission,Médico
+966480568,1080834283,2019-12-05 04:00:00,44803020,Primary reason for admission,Médico
+2073359478,1080834283,2020-01-02 12:00:00,44803020,Primary reason for admission,Médico
+1718994420,1080834283,2021-11-02 13:00:00,44803020,Primary reason for admission,Médico
+1652286904,376635341,2019-12-10 01:00:00,44803020,Primary reason for admission,Médico
+634744302,114098754,2019-12-08 13:00:00,44803020,Primary reason for admission,Médico
+634744302,114098754,2019-12-11 04:00:00,44803020,Primary reason for admission,Médico
+1795198115,357304306,2019-12-08 02:00:00,44803020,Primary reason for admission,Médico
+1167655686,357304306,2020-02-04 10:00:00,44803020,Primary reason for admission,Médico
+1550303776,1748246299,2019-12-06 18:00:00,44803020,Primary reason for admission,Médico
+2045898808,133506099,2019-12-20 10:00:00,44803020,Primary reason for admission,Médico
+994739459,112182977,2019-12-08 18:00:00,44803020,Primary reason for admission,Médico
+947973276,1749262663,2019-12-08 00:00:00,44803020,Primary reason for admission,Médico
+1627903887,268993944,2023-08-15 22:00:00,44803020,Primary reason for admission,Médico
+1888167274,1989717045,2020-01-21 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+538758608,1989717045,2021-02-10 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1099291124,844603710,2020-06-22 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1110907467,658301488,2020-06-02 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+902259492,1407439484,2019-12-18 09:00:00,44803020,Primary reason for admission,Médico
+845805882,892871112,2019-12-30 13:00:00,44803020,Primary reason for admission,Médico
+2123714349,531669029,2019-12-27 14:00:00,44803020,Primary reason for admission,Médico
+849141394,1280375112,2020-02-10 17:00:00,44803020,Primary reason for admission,Médico
+617138037,829622369,2020-12-02 17:00:00,44803020,Primary reason for admission,Médico
+1179004812,733198917,2019-12-21 14:00:00,44803020,Primary reason for admission,Médico
+1193320463,486487046,2020-01-09 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+816094878,529649160,2020-05-20 17:00:00,44803020,Primary reason for admission,Médico
+814788929,1145641391,2020-02-05 19:00:00,44803020,Primary reason for admission,Médico
+1848401435,1319475182,2020-01-17 13:00:00,44803020,Primary reason for admission,Médico
+194556287,1319475182,2020-11-11 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1654716654,1319475182,2020-11-25 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1690934014,1630647041,2021-05-19 10:00:00,44803020,Primary reason for admission,Médico
+359017030,51173601,2020-02-19 12:00:00,44803020,Primary reason for admission,Médico
+1956281881,299542517,2021-02-16 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2129261632,1282247386,2020-01-11 15:00:00,44803020,Primary reason for admission,Médico
+2111300598,68102188,2020-06-08 18:00:00,44803020,Primary reason for admission,Médico
+1681880689,2052562389,2021-03-06 17:00:00,44803020,Primary reason for admission,Médico
+1508679143,156215142,2022-09-24 23:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+856737885,156215142,2023-07-05 16:00:00,44803020,Primary reason for admission,Médico
+588664222,156215142,2023-09-17 20:00:00,44803020,Primary reason for admission,Médico
+254766728,2080003341,2020-01-22 01:00:00,44803020,Primary reason for admission,Médico
+1170931421,2080003341,2020-03-10 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1905106064,378672606,2020-01-28 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+219037301,722196902,2020-02-13 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+48123148,58603954,2020-01-27 00:00:00,44803020,Primary reason for admission,Médico
+917462852,1968987248,2020-07-29 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+551166403,2051073502,2021-04-28 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2095994600,31481890,2020-01-30 23:00:00,44803020,Primary reason for admission,Médico
+410258817,1366855909,2023-01-12 12:00:00,44803020,Primary reason for admission,Médico
+410258817,1366855909,2023-01-15 15:00:00,44803020,Primary reason for admission,Médico
+1301013545,88844457,2020-02-02 19:00:00,44803020,Primary reason for admission,Médico
+478428142,945150657,2020-02-03 18:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1365210848,1838530364,2020-03-02 15:00:00,44803020,Primary reason for admission,Médico
+1723012124,454348546,2021-02-20 19:00:00,44803020,Primary reason for admission,Médico
+189943220,73113595,2022-07-11 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+956196333,2114385935,2020-02-07 13:00:00,44803020,Primary reason for admission,Médico
+1013697978,680401585,2020-02-09 02:00:00,44803020,Primary reason for admission,Médico
+1800926067,554220007,2020-02-23 23:00:00,44803020,Primary reason for admission,Médico
+646713117,1728307234,2023-01-18 10:00:00,44803020,Primary reason for admission,Médico
+1510703816,1482237986,2023-11-02 17:00:00,44803020,Primary reason for admission,Médico
+279837671,1482237986,2024-08-28 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2020751193,864617689,2020-02-13 20:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1522928472,864617689,2020-02-28 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1522928472,864617689,2020-04-08 19:00:00,44803020,Primary reason for admission,Médico
+1522928472,864617689,2020-04-12 16:00:00,44803020,Primary reason for admission,Médico
+1522928472,864617689,2020-04-24 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1522928472,864617689,2020-07-03 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1326303313,864617689,2024-02-27 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+311546783,891781745,2020-04-06 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+311546783,891781745,2020-04-14 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+327889252,1880668804,2020-02-15 02:00:00,44803020,Primary reason for admission,Médico
+199660981,1152701981,2020-05-28 17:00:00,44803020,Primary reason for admission,Médico
+658055505,1152701981,2020-06-29 20:00:00,44803020,Primary reason for admission,Médico
+785124699,1152701981,2023-07-11 00:00:00,44803020,Primary reason for admission,Médico
+328760392,1152701981,2023-07-22 23:00:00,44803020,Primary reason for admission,Médico
+1381052986,1152701981,2024-01-11 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+877842502,96391879,2020-03-28 20:00:00,44803020,Primary reason for admission,Médico
+1184512586,1735070133,2020-05-13 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2138095858,555766173,2020-03-18 21:00:00,44803020,Primary reason for admission,Médico
+1151410103,20704051,2020-02-25 16:00:00,44803020,Primary reason for admission,Médico
+918649125,1509332941,2020-04-26 20:00:00,44803020,Primary reason for admission,Médico
+250778378,352542414,2020-02-27 11:00:00,44803020,Primary reason for admission,Médico
+21141103,1096841978,2020-06-18 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1653343037,1096841978,2023-12-20 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1064749142,441062811,2020-02-27 13:00:00,44803020,Primary reason for admission,Médico
+1704281517,774748754,2020-03-03 10:00:00,44803020,Primary reason for admission,Médico
+1672029336,1901966547,2024-10-17 16:00:00,44803020,Primary reason for admission,Médico
+999561401,346473545,2020-03-09 13:00:00,44803020,Primary reason for admission,Médico
+1501533888,1932006460,2020-03-16 09:00:00,44803020,Primary reason for admission,Médico
+825960968,1662164992,2022-03-09 20:00:00,44803020,Primary reason for admission,Médico
+907278896,916350398,2020-03-23 19:00:00,44803020,Primary reason for admission,Médico
+643961219,916350398,2020-07-21 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1456386638,1904066266,2020-03-31 19:00:00,44803020,Primary reason for admission,Médico
+1510759081,210512582,2020-03-20 05:00:00,44803020,Primary reason for admission,Médico
+558182623,871541303,2020-04-01 12:00:00,44803020,Primary reason for admission,Médico
+1382965521,1323164367,2020-04-04 02:00:00,44803020,Primary reason for admission,Médico
+1085684225,1375800022,2020-04-08 04:00:00,44803020,Primary reason for admission,Médico
+1565434345,788932769,2020-04-09 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1565434345,788932769,2020-04-28 15:00:00,44803020,Primary reason for admission,Médico
+1565434345,788932769,2020-04-29 21:00:00,44803020,Primary reason for admission,Médico
+1188984704,1242921580,2020-06-30 19:00:00,44803020,Primary reason for admission,Médico
+1188984704,1242921580,2020-07-06 16:00:00,44803020,Primary reason for admission,Médico
+543944561,973104368,2020-05-02 03:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+26808901,1216559969,2020-08-01 13:00:00,44803020,Primary reason for admission,Médico
+26808901,1216559969,2020-08-10 12:00:00,44803020,Primary reason for admission,Médico
+1532698282,469703522,2020-05-02 16:00:00,44803020,Primary reason for admission,Médico
+25141813,432252501,2020-05-08 00:00:00,44803020,Primary reason for admission,Médico
+662818045,432252501,2020-07-17 18:00:00,44803020,Primary reason for admission,Médico
+310873979,1438813416,2020-07-08 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+647842354,1438813416,2021-03-15 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+618403460,1897398072,2020-09-16 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1960648813,505632361,2021-06-08 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+944154996,1325599606,2023-03-07 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+200571200,498411693,2020-06-02 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+121365612,92508756,2023-04-18 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1967148311,1948926909,2021-07-01 01:00:00,44803020,Primary reason for admission,Médico
+1816127054,1376010189,2024-06-18 13:00:00,44803020,Primary reason for admission,Médico
+1030746380,1012832331,2020-05-20 07:00:00,44803020,Primary reason for admission,Médico
+253114267,839229325,2020-06-21 21:00:00,44803020,Primary reason for admission,Médico
+1526100863,272414757,2020-05-26 03:00:00,44803020,Primary reason for admission,Médico
+1858049032,1776265967,2021-06-01 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+836227822,1776265967,2024-04-09 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+836227822,1776265967,2024-04-16 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1880487396,1570512778,2020-08-13 14:00:00,44803020,Primary reason for admission,Médico
+1880487396,1570512778,2020-09-03 06:00:00,44803020,Primary reason for admission,Médico
+1218164352,73544683,2020-09-08 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2121757370,2010381405,2020-10-16 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1995396246,2010381405,2020-11-24 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+608014725,1367549607,2022-01-11 11:00:00,44803020,Primary reason for admission,Médico
+1489120826,1029143980,2020-06-22 14:00:00,44803020,Primary reason for admission,Médico
+1489120826,1029143980,2020-07-06 12:00:00,44803020,Primary reason for admission,Médico
+1973867343,1872953432,2020-09-22 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1122753342,1872953432,2024-04-29 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1791192396,447075706,2020-06-16 21:00:00,44803020,Primary reason for admission,Médico
+1655770486,881275033,2020-06-30 18:00:00,44803020,Primary reason for admission,Médico
+1655770486,881275033,2020-07-02 21:00:00,44803020,Primary reason for admission,Médico
+47371879,2071448276,2020-08-14 19:00:00,44803020,Primary reason for admission,Médico
+1388551116,1615058454,2020-07-05 19:00:00,44803020,Primary reason for admission,Médico
+1689874859,1290843193,2021-04-24 23:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+508413548,1142434672,2020-09-17 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1782397562,2026936407,2020-08-12 20:00:00,44803020,Primary reason for admission,Médico
+1782397562,2026936407,2020-09-12 22:00:00,44803020,Primary reason for admission,Médico
+1129446801,1721814860,2020-11-14 13:00:00,44803020,Primary reason for admission,Médico
+745762468,181733789,2020-10-13 13:00:00,44803020,Primary reason for admission,Médico
+1818152130,181733789,2023-03-20 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+535129090,181733789,2023-07-06 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+945663583,1472883153,2020-10-30 20:00:00,44803020,Primary reason for admission,Médico
+795213325,1843536318,2020-07-31 16:00:00,44803020,Primary reason for admission,Médico
+795213325,1843536318,2020-08-06 18:00:00,44803020,Primary reason for admission,Médico
+1396307376,1843536318,2023-11-12 04:00:00,44803020,Primary reason for admission,Médico
+609775791,363078964,2021-03-19 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+506609767,614787890,2020-10-19 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+858613475,81220124,2021-04-16 14:00:00,44803020,Primary reason for admission,Médico
+718040296,81220124,2021-07-12 10:00:00,44803020,Primary reason for admission,Médico
+1314576074,81220124,2023-04-11 17:00:00,44803020,Primary reason for admission,Médico
+400935737,945383056,2020-12-01 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1789036137,783545128,2021-05-05 18:00:00,44803020,Primary reason for admission,Médico
+30302743,479057124,2020-09-14 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+30302743,479057124,2020-10-02 01:00:00,44803020,Primary reason for admission,Médico
+1954066089,479057124,2021-09-16 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1772574117,1342477775,2023-06-28 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1825257182,1000733604,2020-10-28 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1497485456,1784643448,2020-08-31 01:00:00,44803020,Primary reason for admission,Médico
+586131667,528802775,2020-09-15 23:00:00,44803020,Primary reason for admission,Médico
+842508595,528802775,2021-02-08 21:00:00,44803020,Primary reason for admission,Médico
+19197454,1416048048,2020-10-13 17:00:00,44803020,Primary reason for admission,Médico
+1343515403,1416048048,2021-03-23 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+416716051,1416048048,2021-04-12 15:00:00,44803020,Primary reason for admission,Médico
+556269832,1057077541,2020-09-23 20:00:00,44803020,Primary reason for admission,Médico
+556269832,1057077541,2020-09-29 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+5775722,1201701094,2020-09-22 23:00:00,44803020,Primary reason for admission,Médico
+1158419199,1201701094,2021-01-20 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+239467906,1201701094,2021-11-09 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1022369350,787450912,2020-09-22 23:00:00,44803020,Primary reason for admission,Médico
+1867513375,815806772,2020-10-14 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1867513375,815806772,2020-10-23 10:00:00,44803020,Primary reason for admission,Médico
+1867513375,815806772,2020-11-04 17:00:00,44803020,Primary reason for admission,Médico
+782842184,68230518,2020-09-28 20:00:00,44803020,Primary reason for admission,Médico
+166385686,1218087397,2020-10-02 09:00:00,44803020,Primary reason for admission,Médico
+1574674183,1049790703,2020-11-14 04:00:00,44803020,Primary reason for admission,Médico
+209464472,1392700039,2020-10-16 13:00:00,44803020,Primary reason for admission,Médico
+209464472,1392700039,2020-11-17 10:00:00,44803020,Primary reason for admission,Médico
+1503187494,1392700039,2021-02-25 10:00:00,44803020,Primary reason for admission,Médico
+1543635898,1711394279,2020-10-23 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2129707586,1711394279,2021-05-25 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+204561248,78403479,2020-10-18 13:00:00,44803020,Primary reason for admission,Médico
+319345727,293188012,2022-02-24 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+570706368,1893214444,2021-12-01 10:00:00,44803020,Primary reason for admission,Médico
+1673674106,1893214444,2023-03-15 15:00:00,44803020,Primary reason for admission,Médico
+1295423175,950369371,2021-06-30 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1004823488,1779443723,2020-11-03 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1032881832,1152977942,2020-10-28 14:00:00,44803020,Primary reason for admission,Médico
+1032881832,1152977942,2020-11-01 22:00:00,44803020,Primary reason for admission,Médico
+1335939856,390977653,2021-01-05 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+41808702,1753664785,2021-04-12 17:00:00,44803020,Primary reason for admission,Médico
+505714396,1085590041,2021-11-11 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1152194434,1469488996,2020-11-18 17:00:00,44803020,Primary reason for admission,Médico
+245759817,438337055,2022-07-26 14:00:00,44803020,Primary reason for admission,Médico
+2134174081,1995535468,2021-07-26 23:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1885045271,840235649,2020-11-13 14:00:00,44803020,Primary reason for admission,Médico
+1598332292,892294812,2020-11-24 02:00:00,44803020,Primary reason for admission,Médico
+563641644,892294812,2021-12-31 04:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+563641644,892294812,2022-01-03 12:00:00,44803020,Primary reason for admission,Médico
+1775814368,1455386632,2021-01-26 16:00:00,44803020,Primary reason for admission,Médico
+1775814368,1455386632,2021-03-24 19:00:00,44803020,Primary reason for admission,Médico
+1775814368,1455386632,2021-03-25 12:00:00,44803020,Primary reason for admission,Médico
+1775814368,1455386632,2021-04-04 13:00:00,44803020,Primary reason for admission,Médico
+990452720,725498220,2022-03-02 18:00:00,44803020,Primary reason for admission,Médico
+1954386375,1723170721,2020-12-22 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1563543010,1429635069,2020-12-02 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+914833036,1429635069,2021-03-25 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1601481683,2048035395,2021-06-19 16:00:00,44803020,Primary reason for admission,Médico
+748044766,2048035395,2021-10-13 21:00:00,44803020,Primary reason for admission,Médico
+1490658209,1604686463,2020-11-27 21:00:00,44803020,Primary reason for admission,Médico
+1490658209,1604686463,2020-11-30 10:00:00,44803020,Primary reason for admission,Médico
+335024140,44145344,2021-02-18 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+930840286,44145344,2024-01-19 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+462004597,141222101,2020-12-03 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1331380289,18034690,2021-07-25 18:00:00,44803020,Primary reason for admission,Médico
+310034998,1058624872,2020-12-12 19:00:00,44803020,Primary reason for admission,Médico
+1953147660,1722597269,2021-04-28 12:00:00,44803020,Primary reason for admission,Médico
+139004962,1812421731,2022-05-06 11:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+515935637,2043276351,2022-04-25 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+322882677,1416130754,2021-01-10 10:00:00,44803020,Primary reason for admission,Médico
+733476354,662208670,2021-04-19 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2077567669,266005099,2024-10-07 20:00:00,44803020,Primary reason for admission,Médico
+1826344942,1118859996,2021-01-28 20:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+619391988,1118859996,2021-04-18 00:00:00,44803020,Primary reason for admission,Médico
+959855855,1732334808,2021-10-14 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1794581640,1732334808,2023-05-03 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+557568270,393959463,2021-04-07 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1101786299,755280118,2021-08-31 17:00:00,44803020,Primary reason for admission,Médico
+369948119,196079560,2021-02-19 22:00:00,44803020,Primary reason for admission,Médico
+820906258,1264965538,2023-04-01 16:00:00,44803020,Primary reason for admission,Médico
+820906258,1264965538,2023-04-18 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1311709040,894903959,2022-05-13 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+897211678,2107759808,2021-05-26 00:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1974732136,772534127,2022-11-09 13:00:00,44803020,Primary reason for admission,Médico
+1974732136,772534127,2022-11-10 14:00:00,44803020,Primary reason for admission,Médico
+1974732136,772534127,2022-12-08 12:00:00,44803020,Primary reason for admission,Médico
+453104849,771937723,2021-09-10 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+116985079,771937723,2023-02-27 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1188661479,1728835281,2021-03-19 17:00:00,44803020,Primary reason for admission,Médico
+1453164176,1728835281,2021-06-17 16:00:00,44803020,Primary reason for admission,Médico
+1394670139,1102620434,2021-06-25 12:00:00,44803020,Primary reason for admission,Médico
+852224033,1713440051,2021-04-01 18:00:00,44803020,Primary reason for admission,Médico
+336838639,229355383,2022-09-17 12:00:00,44803020,Primary reason for admission,Médico
+336838639,229355383,2022-09-23 08:00:00,44803020,Primary reason for admission,Médico
+26176016,418873550,2023-11-27 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1492538793,1075142005,2021-03-29 02:00:00,44803020,Primary reason for admission,Médico
+1102658634,1075142005,2021-04-07 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1590233299,1777455461,2021-03-31 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+721273014,1882263835,2021-04-10 08:00:00,44803020,Primary reason for admission,Médico
+1325632234,1281287930,2021-11-17 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1976198805,1854768565,2021-05-17 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1944656449,305504556,2021-04-09 12:00:00,44803020,Primary reason for admission,Médico
+2099221797,1215503776,2021-04-18 04:00:00,44803020,Primary reason for admission,Médico
+1359336036,639051386,2021-12-20 10:00:00,44803020,Primary reason for admission,Médico
+1838630535,291911014,2021-05-14 14:00:00,44803020,Primary reason for admission,Médico
+875959520,1309264690,2021-12-21 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1188581063,2065909112,2021-06-06 15:00:00,44803020,Primary reason for admission,Médico
+1188581063,2065909112,2021-06-20 16:00:00,44803020,Primary reason for admission,Médico
+1188581063,2065909112,2021-07-04 02:00:00,44803020,Primary reason for admission,Médico
+425526459,371083972,2021-09-09 03:00:00,44803020,Primary reason for admission,Médico
+761899997,1373519736,2021-07-07 15:00:00,44803020,Primary reason for admission,Médico
+412320005,1658934252,2021-05-31 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+231812718,8503126,2021-06-04 03:00:00,44803020,Primary reason for admission,Médico
+1700652459,668489694,2021-09-23 23:00:00,44803020,Primary reason for admission,Médico
+1176857892,609781282,2022-03-24 19:00:00,44803020,Primary reason for admission,Médico
+65661189,1890612173,2021-06-04 12:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+818270814,759584379,2021-05-13 00:00:00,44803020,Primary reason for admission,Médico
+1581404514,811244093,2021-06-10 02:00:00,44803020,Primary reason for admission,Médico
+1581404514,811244093,2021-06-18 14:00:00,44803020,Primary reason for admission,Médico
+828880411,811244093,2022-12-18 13:00:00,44803020,Primary reason for admission,Médico
+243161126,670637719,2022-01-20 19:00:00,44803020,Primary reason for admission,Médico
+1609667605,670637719,2022-03-07 14:00:00,44803020,Primary reason for admission,Médico
+1298529495,1541805454,2021-05-26 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+80086808,800899497,2021-05-16 16:00:00,44803020,Primary reason for admission,Médico
+18069391,800899497,2021-11-03 09:00:00,44803020,Primary reason for admission,Médico
+1486876929,1023123581,2021-05-19 11:00:00,44803020,Primary reason for admission,Médico
+1486876929,1023123581,2021-05-21 15:00:00,44803020,Primary reason for admission,Médico
+1616098147,2051239710,2021-06-25 23:00:00,44803020,Primary reason for admission,Médico
+1734038504,2051239710,2021-07-28 14:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1154754970,1081430492,2024-08-09 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1334376105,1511842468,2021-05-20 13:00:00,44803020,Primary reason for admission,Médico
+631359249,172821433,2021-07-08 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1721875472,23532619,2024-04-16 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+653269357,2014554932,2022-04-15 15:00:00,44803020,Primary reason for admission,Médico
+478301408,880197298,2024-01-05 01:00:00,44803020,Primary reason for admission,Médico
+157543085,1743757189,2021-06-08 14:00:00,44803020,Primary reason for admission,Médico
+565619036,1094554325,2021-06-11 14:00:00,44803020,Primary reason for admission,Médico
+460628807,30326895,2021-06-12 15:00:00,44803020,Primary reason for admission,Médico
+713810865,1900035177,2021-07-13 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1078397204,1007070680,2021-06-28 19:00:00,44803020,Primary reason for admission,Médico
+1078397204,1007070680,2021-07-07 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+769107117,1378090630,2022-07-09 17:00:00,44803020,Primary reason for admission,Médico
+1176375527,1873146621,2022-12-24 02:00:00,44803020,Primary reason for admission,Médico
+1176375527,1873146621,2023-01-01 22:00:00,44803020,Primary reason for admission,Médico
+1701390049,1873146621,2023-01-17 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+241272827,1873146621,2024-01-12 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+178443474,1873146621,2024-09-25 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1609354374,1885751770,2021-11-30 14:00:00,44803020,Primary reason for admission,Médico
+2028583082,1873830902,2021-06-21 23:00:00,44803020,Primary reason for admission,Médico
+362461692,10693123,2021-06-20 05:00:00,44803020,Primary reason for admission,Médico
+1669506686,348484745,2021-06-27 04:00:00,44803020,Primary reason for admission,Médico
+467987541,125101361,2021-09-03 12:00:00,44803020,Primary reason for admission,Médico
+1526401392,349491157,2023-06-14 11:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+933534121,1598990535,2021-12-02 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1511037694,629014368,2021-07-01 14:00:00,44803020,Primary reason for admission,Médico
+241839705,1240178344,2021-07-07 13:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+2127362350,143552917,2022-02-14 20:00:00,44803020,Primary reason for admission,Médico
+729663986,1265333439,2021-07-12 11:00:00,44803020,Primary reason for admission,Médico
+1392286952,1326763606,2022-05-04 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+926547510,348731724,2024-09-24 06:00:00,44803020,Primary reason for admission,Médico
+637738929,1344549457,2021-07-29 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+219272153,1547317717,2021-07-26 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+219272153,1547317717,2021-08-13 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1374739169,842220854,2022-02-22 21:00:00,44803020,Primary reason for admission,Médico
+53642128,1114544942,2022-01-25 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2127882547,1114544942,2022-10-26 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1207924339,770892845,2021-07-18 01:00:00,44803020,Primary reason for admission,Médico
+74019289,810594613,2021-07-18 04:00:00,44803020,Primary reason for admission,Médico
+279019717,1037892022,2022-01-19 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+279019717,1037892022,2022-01-22 21:00:00,44803020,Primary reason for admission,Médico
+1634241536,1580254353,2021-08-03 12:00:00,44803020,Primary reason for admission,Médico
+331144017,1231939236,2021-08-07 10:00:00,44803020,Primary reason for admission,Médico
+1897298123,1191728826,2022-03-22 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1503326742,273020671,2021-08-11 16:00:00,44803020,Primary reason for admission,Médico
+323373628,749923085,2023-03-05 16:00:00,44803020,Primary reason for admission,Médico
+1359156953,918094063,2021-11-05 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1260783427,849451233,2021-08-12 23:00:00,44803020,Primary reason for admission,Médico
+1410611853,186904186,2021-08-13 14:00:00,44803020,Primary reason for admission,Médico
+1373872339,537045479,2021-10-04 01:00:00,44803020,Primary reason for admission,Médico
+1444536716,537045479,2022-02-08 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+135538326,2130192040,2021-08-14 23:00:00,44803020,Primary reason for admission,Médico
+1275216727,1204394900,2021-08-18 17:00:00,44803020,Primary reason for admission,Médico
+139253551,675392955,2021-08-24 13:00:00,44803020,Primary reason for admission,Médico
+703809248,882864443,2021-08-19 10:00:00,44803020,Primary reason for admission,Médico
+1696675704,1775688733,2022-09-21 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+839918285,1791712444,2021-08-25 16:00:00,44803020,Primary reason for admission,Médico
+839918285,1791712444,2021-11-23 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+839918285,1791712444,2022-03-08 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+839918285,1791712444,2022-04-21 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+839918285,1791712444,2022-07-14 13:00:00,44803020,Primary reason for admission,Médico
+517825381,1791712444,2024-03-18 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+517825381,1791712444,2024-03-26 21:00:00,44803020,Primary reason for admission,Médico
+146214607,841758394,2021-08-27 15:00:00,44803020,Primary reason for admission,Médico
+1430456071,817245750,2022-07-04 10:00:00,44803020,Primary reason for admission,Médico
+1629965817,797743206,2021-09-14 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+15395247,797743206,2022-11-22 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2009846060,1211245695,2021-11-16 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+640029620,1211245695,2022-01-26 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1832269430,933660684,2021-10-11 21:00:00,44803020,Primary reason for admission,Médico
+1065335084,1007063696,2021-10-13 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+823136799,1642773038,2021-09-09 23:00:00,44803020,Primary reason for admission,Médico
+836693302,701810967,2021-10-13 16:00:00,44803020,Primary reason for admission,Médico
+1634283449,289599584,2021-09-11 23:00:00,44803020,Primary reason for admission,Médico
+1147504589,1320380616,2021-12-01 16:00:00,44803020,Primary reason for admission,Médico
+1184159674,349497606,2022-01-10 14:00:00,44803020,Primary reason for admission,Médico
+1511364304,349497606,2023-04-12 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+79515858,1661402755,2023-07-25 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2055270048,312951264,2021-09-25 11:00:00,44803020,Primary reason for admission,Médico
+189319586,1465981876,2022-09-07 21:00:00,44803020,Primary reason for admission,Médico
+1100895107,1730611650,2021-11-23 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1408616106,1730611650,2022-09-20 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+843439859,776587377,2021-09-26 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+843439859,776587377,2021-09-30 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+843439859,776587377,2021-10-05 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2048519181,1200559571,2024-01-19 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+573276615,977906476,2021-10-05 14:00:00,44803020,Primary reason for admission,Médico
+1120737670,977906476,2021-10-27 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1737916357,379555753,2021-12-19 21:00:00,44803020,Primary reason for admission,Médico
+1334382283,165951133,2022-07-10 13:00:00,44803020,Primary reason for admission,Médico
+1273039971,922470510,2022-05-17 15:00:00,44803020,Primary reason for admission,Médico
+1273039971,922470510,2022-06-20 10:00:00,44803020,Primary reason for admission,Médico
+1273039971,922470510,2022-08-07 16:00:00,44803020,Primary reason for admission,Médico
+39709202,922470510,2023-01-02 17:00:00,44803020,Primary reason for admission,Médico
+456081911,1769776397,2021-10-07 22:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+456081911,1769776397,2021-10-12 02:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1951801827,1769776397,2022-02-08 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+769550184,1219125865,2022-01-03 18:00:00,44803020,Primary reason for admission,Médico
+238743408,602797479,2021-11-17 13:00:00,44803020,Primary reason for admission,Médico
+982161876,2126672825,2022-01-17 14:00:00,44803020,Primary reason for admission,Médico
+982161876,2126672825,2022-01-19 14:00:00,44803020,Primary reason for admission,Médico
+755950864,197541282,2021-10-15 17:00:00,44803020,Primary reason for admission,Médico
+610516458,1568946821,2021-10-25 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+874132608,1309154560,2021-10-17 17:00:00,44803020,Primary reason for admission,Médico
+1859317144,508223077,2021-12-06 00:00:00,44803020,Primary reason for admission,Médico
+2073562145,1065354901,2021-10-19 10:00:00,44803020,Primary reason for admission,Médico
+1929309827,1156597408,2021-12-20 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1486448727,1156597408,2022-04-13 17:00:00,44803020,Primary reason for admission,Médico
+1127739508,1384343981,2021-11-29 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1127739508,1384343981,2021-12-14 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1127739508,1384343981,2021-12-21 18:00:00,44803020,Primary reason for admission,Médico
+1877509001,1009953343,2021-10-22 16:00:00,44803020,Primary reason for admission,Médico
+1877509001,1009953343,2021-11-27 16:00:00,44803020,Primary reason for admission,Médico
+1082762915,842135426,2021-12-07 23:00:00,44803020,Primary reason for admission,Médico
+2071313971,536103650,2021-10-29 03:00:00,44803020,Primary reason for admission,Médico
+650752512,736377635,2023-01-18 13:00:00,44803020,Primary reason for admission,Médico
+1484305742,813334548,2021-11-01 21:00:00,44803020,Primary reason for admission,Médico
+1505613471,2090594726,2021-12-16 16:00:00,44803020,Primary reason for admission,Médico
+998222519,540461968,2021-11-04 03:00:00,44803020,Primary reason for admission,Médico
+27986095,732931467,2021-11-08 09:00:00,44803020,Primary reason for admission,Médico
+37569377,680269733,2022-06-04 17:00:00,44803020,Primary reason for admission,Médico
+1101861365,346550977,2021-11-09 15:00:00,44803020,Primary reason for admission,Médico
+1551457993,2117533943,2021-11-09 15:00:00,44803020,Primary reason for admission,Médico
+965164362,1029243249,2022-02-24 00:00:00,44803020,Primary reason for admission,Médico
+2142839911,1029243249,2022-04-26 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1556767882,1755617133,2022-03-15 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+394031754,1755617133,2022-05-11 14:00:00,44803020,Primary reason for admission,Médico
+349655293,1755617133,2022-07-12 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+593029742,1308732114,2022-03-11 06:00:00,44803020,Primary reason for admission,Médico
+1877726285,859708770,2021-12-13 13:00:00,44803020,Primary reason for admission,Médico
+1223981117,129267046,2022-01-08 07:00:00,44803020,Primary reason for admission,Médico
+2106147849,129267046,2022-10-19 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+774934960,1356205559,2022-09-15 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+34304608,1356205559,2023-02-24 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+990886880,1065558184,2021-12-04 03:00:00,44803020,Primary reason for admission,Médico
+1289199414,1597172350,2021-11-22 14:00:00,44803020,Primary reason for admission,Médico
+871313476,1238455960,2022-03-24 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+539776919,293653132,2021-11-22 19:00:00,44803020,Primary reason for admission,Médico
+481744608,71213136,2022-03-23 04:00:00,44803020,Primary reason for admission,Médico
+1745547576,2094891082,2021-11-28 00:00:00,44803020,Primary reason for admission,Médico
+1930148533,1232613697,2022-01-13 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1930148533,1232613697,2022-01-16 20:00:00,44803020,Primary reason for admission,Médico
+329908779,1232613697,2024-01-10 17:00:00,44803020,Primary reason for admission,Médico
+1035866306,1126045329,2021-11-27 03:00:00,44803020,Primary reason for admission,Médico
+1616865613,1652249679,2021-11-29 01:00:00,44803020,Primary reason for admission,Médico
+1557810464,220141004,2021-12-18 20:00:00,44803020,Primary reason for admission,Médico
+1230108877,52725680,2021-12-03 15:00:00,44803020,Primary reason for admission,Médico
+260418819,2043805548,2023-09-21 00:00:00,44803020,Primary reason for admission,Médico
+1899598951,2046376205,2022-05-16 12:00:00,44803020,Primary reason for admission,Médico
+1294009957,705177968,2021-12-14 03:00:00,44803020,Primary reason for admission,Médico
+1759203068,1723153995,2021-12-11 17:00:00,44803020,Primary reason for admission,Médico
+60127311,141345299,2024-01-25 17:00:00,44803020,Primary reason for admission,Médico
+60127311,141345299,2024-02-16 11:00:00,44803020,Primary reason for admission,Médico
+60127311,141345299,2024-03-10 22:00:00,44803020,Primary reason for admission,Médico
+60127311,141345299,2024-03-20 19:00:00,44803020,Primary reason for admission,Médico
+1548614020,673240015,2022-02-01 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+607996513,541104320,2021-12-23 00:00:00,44803020,Primary reason for admission,Médico
+989525616,779891771,2022-04-12 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+241548583,779891771,2023-03-15 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1202846982,677321781,2022-02-18 14:00:00,44803020,Primary reason for admission,Médico
+1324980505,603530996,2022-08-15 23:00:00,44803020,Primary reason for admission,Médico
+857726830,1972245455,2024-03-03 22:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1716189772,1157138552,2021-12-22 16:00:00,44803020,Primary reason for admission,Médico
+1848820555,1641434198,2022-01-03 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1848820555,1641434198,2022-01-19 14:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1848820555,1641434198,2022-01-19 21:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+564946407,1641434198,2022-11-28 11:00:00,44803020,Primary reason for admission,Médico
+1036619762,281449169,2022-01-16 19:00:00,44803020,Primary reason for admission,Médico
+1833057323,281449169,2022-05-06 19:00:00,44803020,Primary reason for admission,Médico
+701195913,281449169,2022-06-27 10:00:00,44803020,Primary reason for admission,Médico
+2093032907,1126341382,2021-12-30 14:00:00,44803020,Primary reason for admission,Médico
+1414198025,1218503080,2021-12-29 05:00:00,44803020,Primary reason for admission,Médico
+1009412173,1218503080,2022-06-08 09:00:00,44803020,Primary reason for admission,Médico
+460220601,1802124546,2022-04-11 18:00:00,44803020,Primary reason for admission,Médico
+460220601,1802124546,2022-04-28 17:00:00,44803020,Primary reason for admission,Médico
+1934490691,556803124,2022-01-17 23:00:00,44803020,Primary reason for admission,Médico
+3359386,2086583110,2022-06-04 18:00:00,44803020,Primary reason for admission,Médico
+1370660310,387441262,2022-09-27 21:00:00,44803020,Primary reason for admission,Médico
+696564280,387441262,2022-11-30 17:00:00,44803020,Primary reason for admission,Médico
+1539828864,2065991758,2022-01-08 19:00:00,44803020,Primary reason for admission,Médico
+2041827947,1936915449,2022-01-24 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+997405829,1012151441,2022-06-08 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+332302762,274176077,2022-04-16 21:00:00,44803020,Primary reason for admission,Médico
+479820463,845539820,2022-05-17 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1832714476,845539820,2023-04-25 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1428836095,1434271451,2022-01-18 18:00:00,44803020,Primary reason for admission,Médico
+840989621,1440317604,2023-08-20 00:00:00,44803020,Primary reason for admission,Médico
+840989621,1440317604,2023-08-31 18:00:00,44803020,Primary reason for admission,Médico
+840989621,1440317604,2023-09-04 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+196787155,714233709,2024-02-21 20:00:00,44803020,Primary reason for admission,Médico
+1981028134,618782047,2022-01-28 17:00:00,44803020,Primary reason for admission,Médico
+277136678,160174373,2022-03-28 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+284307336,1583145156,2022-01-30 13:00:00,44803020,Primary reason for admission,Médico
+1419186097,1405913820,2022-03-23 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1891162736,247279414,2022-09-20 20:00:00,44803020,Primary reason for admission,Médico
+1891162736,247279414,2022-10-06 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1537934605,7951666,2022-03-29 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+682965390,128116589,2022-04-20 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+682965390,128116589,2022-04-30 14:00:00,44803020,Primary reason for admission,Médico
+1625399233,125955352,2022-03-14 16:00:00,44803020,Primary reason for admission,Médico
+563490398,101715513,2024-02-28 18:00:00,44803020,Primary reason for admission,Médico
+1505650002,2082405820,2023-12-08 05:00:00,44803020,Primary reason for admission,Médico
+799150757,706322197,2022-02-18 21:00:00,44803020,Primary reason for admission,Médico
+799150757,706322197,2022-02-22 14:00:00,44803020,Primary reason for admission,Médico
+654696412,796966224,2022-10-25 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+468643062,1465279854,2023-10-23 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+468643062,1465279854,2023-10-26 12:00:00,44803020,Primary reason for admission,Médico
+1607371983,1301797308,2022-02-24 01:00:00,44803020,Primary reason for admission,Médico
+808634863,1621809753,2022-07-25 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1762126454,1556313651,2022-04-06 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1683560477,1556313651,2022-11-20 14:00:00,44803020,Primary reason for admission,Médico
+965269756,1556313651,2023-03-23 11:00:00,44803020,Primary reason for admission,Médico
+1058966621,602086918,2022-03-08 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+887998668,1143522827,2022-03-31 22:00:00,44803020,Primary reason for admission,Médico
+887998668,1143522827,2022-05-19 18:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+887998668,1143522827,2022-05-31 17:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1705638506,1175995483,2022-05-20 13:00:00,44803020,Primary reason for admission,Médico
+669082381,1320583247,2022-03-22 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+907165317,72857320,2022-05-26 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+206207622,1221843641,2022-04-20 16:00:00,44803020,Primary reason for admission,Médico
+829991736,370296308,2022-03-17 22:00:00,44803020,Primary reason for admission,Médico
+829991736,370296308,2022-08-03 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+903634304,1304774672,2023-07-22 21:00:00,44803020,Primary reason for admission,Médico
+1492084255,131871186,2022-03-21 02:00:00,44803020,Primary reason for admission,Médico
+1115390432,2018724794,2022-04-29 11:00:00,44803020,Primary reason for admission,Médico
+1714641252,421417912,2022-03-29 04:00:00,44803020,Primary reason for admission,Médico
+1220259872,563904363,2022-05-25 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1637578894,137521624,2022-04-02 10:00:00,44803020,Primary reason for admission,Médico
+54742452,285666455,2022-06-06 19:00:00,44803020,Primary reason for admission,Médico
+999471536,285666455,2022-09-14 01:00:00,44803020,Primary reason for admission,Médico
+999471536,285666455,2022-09-27 17:00:00,44803020,Primary reason for admission,Médico
+262588967,746574138,2022-06-14 04:00:00,44803020,Primary reason for admission,Médico
+1029062744,1640217086,2022-04-11 03:00:00,44803020,Primary reason for admission,Médico
+447503999,1640217086,2022-04-16 05:00:00,44803020,Primary reason for admission,Médico
+944574292,92010045,2022-08-17 10:00:00,44803020,Primary reason for admission,Médico
+1891481653,205124010,2022-04-13 01:00:00,44803020,Primary reason for admission,Médico
+457239995,1067313462,2023-04-19 02:00:00,44803020,Primary reason for admission,Médico
+1930324561,434331693,2022-04-22 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1930324561,434331693,2022-04-23 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1950030798,1514761626,2022-11-23 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+346770795,1003766227,2022-04-27 20:00:00,44803020,Primary reason for admission,Médico
+1996105148,533655286,2022-06-21 18:00:00,44803020,Primary reason for admission,Médico
+1388641516,533655286,2022-07-24 20:00:00,44803020,Primary reason for admission,Médico
+750728992,533655286,2022-09-14 17:00:00,44803020,Primary reason for admission,Médico
+750728992,533655286,2022-09-21 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1037094692,533655286,2023-10-03 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1037094692,533655286,2023-10-08 16:00:00,44803020,Primary reason for admission,Médico
+992193712,533655286,2024-02-08 20:00:00,44803020,Primary reason for admission,Médico
+395880241,126455919,2022-07-03 11:00:00,44803020,Primary reason for admission,Médico
+1231417140,2110613762,2022-04-29 05:00:00,44803020,Primary reason for admission,Médico
+2013648281,1277979626,2022-05-04 20:00:00,44803020,Primary reason for admission,Médico
+1506734135,1865513070,2022-08-29 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+598693579,492952296,2022-06-17 13:00:00,44803020,Primary reason for admission,Médico
+1181365926,1491883268,2024-08-31 13:00:00,44803020,Primary reason for admission,Médico
+1980101034,1430074021,2022-08-10 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+536563140,1430074021,2023-05-30 18:00:00,44803020,Primary reason for admission,Médico
+536563140,1430074021,2023-11-20 04:00:00,44803020,Primary reason for admission,Médico
+875197034,828114615,2022-09-13 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+903380188,2009792380,2022-05-14 19:00:00,44803020,Primary reason for admission,Médico
+2041852505,199889956,2022-11-09 22:00:00,44803020,Primary reason for admission,Médico
+1394680776,745996172,2022-05-19 11:00:00,44803020,Primary reason for admission,Médico
+714908962,853691837,2022-06-10 20:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1145450898,853691837,2023-05-27 12:00:00,44803020,Primary reason for admission,Médico
+1790070480,1056532852,2022-06-15 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+959904441,1076986015,2022-07-26 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+959904441,1076986015,2022-07-31 11:00:00,44803020,Primary reason for admission,Médico
+1116641288,272114427,2022-06-02 12:00:00,44803020,Primary reason for admission,Médico
+658000112,1401431047,2022-06-05 23:00:00,44803020,Primary reason for admission,Médico
+334645518,840211231,2022-10-21 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1043842363,460318530,2023-02-13 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+617950925,460318530,2023-05-29 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+923254692,460318530,2023-08-24 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2131371486,460318530,2023-09-18 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+790370330,1058697345,2023-11-15 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1615267849,1094527902,2023-01-11 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2083105090,310464079,2022-10-10 18:00:00,44803020,Primary reason for admission,Médico
+1975755065,310464079,2022-11-20 10:00:00,44803020,Primary reason for admission,Médico
+854581368,1446095166,2022-07-20 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+545740372,665207020,2022-07-25 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1976768884,281164198,2022-09-19 02:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+604452691,88911746,2022-09-15 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1370370,1531968396,2022-07-31 10:00:00,44803020,Primary reason for admission,Médico
+604994627,1196366087,2022-07-18 11:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1856153235,792259086,2022-12-28 10:00:00,44803020,Primary reason for admission,Médico
+1856153235,792259086,2023-02-01 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1856153235,792259086,2023-02-21 19:00:00,44803020,Primary reason for admission,Médico
+1856153235,792259086,2023-02-28 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+737893418,792259086,2023-09-17 10:00:00,44803020,Primary reason for admission,Médico
+357443352,616434113,2022-07-23 17:00:00,44803020,Primary reason for admission,Médico
+1612948735,845974738,2022-07-25 22:00:00,44803020,Primary reason for admission,Médico
+1747368547,981139116,2022-12-21 12:00:00,44803020,Primary reason for admission,Médico
+1082988185,545749387,2022-07-27 18:00:00,44803020,Primary reason for admission,Médico
+1082988185,545749387,2022-11-08 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1082988185,545749387,2022-12-01 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+820395368,545749387,2023-06-26 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+820395368,545749387,2023-07-25 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+820395368,545749387,2024-02-27 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+820395368,545749387,2024-03-18 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+793066929,545749387,2024-08-07 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+793066929,545749387,2024-08-28 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1318110293,545749387,2024-09-20 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1197681398,1535556991,2022-10-02 16:00:00,44803020,Primary reason for admission,Médico
+1628800251,1535556991,2022-12-19 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1093265747,1953807415,2022-07-25 20:00:00,44803020,Primary reason for admission,Médico
+566908996,1870703811,2022-10-21 11:00:00,44803020,Primary reason for admission,Médico
+922092316,1745461665,2024-02-05 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1397597551,510904335,2022-07-31 16:00:00,44803020,Primary reason for admission,Médico
+545948809,1941708137,2023-09-13 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1606069361,511041715,2022-08-31 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1571709428,820019441,2022-08-05 18:00:00,44803020,Primary reason for admission,Médico
+467628549,1518280492,2023-11-16 03:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1770325043,731934496,2022-12-16 13:00:00,44803020,Primary reason for admission,Médico
+38311795,731934496,2024-11-01 19:00:00,44803020,Primary reason for admission,Médico
+1613330996,1539627164,2022-12-12 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1613330996,1539627164,2022-12-16 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1803336357,1970480896,2023-05-10 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+324168957,927461550,2023-01-10 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+324168957,927461550,2023-01-18 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1530124935,201457787,2023-01-23 13:00:00,44803020,Primary reason for admission,Médico
+79068857,1720140407,2023-11-15 14:00:00,44803020,Primary reason for admission,Médico
+1739924881,1967000631,2022-09-20 09:00:00,44803020,Primary reason for admission,Médico
+1047597940,972091045,2022-09-15 20:00:00,44803020,Primary reason for admission,Médico
+1359934727,213488190,2022-11-18 15:00:00,44803020,Primary reason for admission,Médico
+1216831614,747744050,2023-10-29 07:00:00,44803020,Primary reason for admission,Médico
+2052908005,10418286,2022-09-27 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2052908005,10418286,2022-10-05 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+33476865,10418286,2022-10-25 15:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+33476865,10418286,2022-10-28 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+33476865,10418286,2022-11-03 10:00:00,44803020,Primary reason for admission,Médico
+1037637647,275340287,2022-10-19 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+276175397,275340287,2023-02-23 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+376237967,1376393467,2023-04-28 17:00:00,44803020,Primary reason for admission,Médico
+1312385,1059345944,2022-10-26 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1529929091,133732755,2022-11-13 16:00:00,44803020,Primary reason for admission,Médico
+339708672,104036827,2022-10-10 22:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+339708672,104036827,2022-10-13 06:00:00,44803020,Primary reason for admission,Médico
+660051422,1252053828,2023-01-24 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1510567590,1806872881,2022-10-05 23:00:00,44803020,Primary reason for admission,Médico
+1825930529,644866461,2022-11-26 12:00:00,44803020,Primary reason for admission,Médico
+1567652109,90315279,2022-10-22 15:00:00,44803020,Primary reason for admission,Médico
+1567652109,90315279,2022-12-28 00:00:00,44803020,Primary reason for admission,Médico
+1567652109,90315279,2023-01-10 18:00:00,44803020,Primary reason for admission,Médico
+611804928,1641407266,2022-11-11 20:00:00,44803020,Primary reason for admission,Médico
+1787761167,990704190,2022-10-20 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1124147201,2041693987,2023-11-17 20:00:00,44803020,Primary reason for admission,Médico
+1567040177,1070687432,2022-12-13 04:00:00,44803020,Primary reason for admission,Médico
+798123229,1520178708,2022-10-17 19:00:00,44803020,Primary reason for admission,Médico
+1059598869,1510795647,2022-10-21 18:00:00,44803020,Primary reason for admission,Médico
+563045148,1818426031,2022-10-23 20:00:00,44803020,Primary reason for admission,Médico
+58292230,1174239079,2023-01-17 19:00:00,44803020,Primary reason for admission,Médico
+1153685643,1890066870,2023-07-07 04:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+858935034,1890066870,2023-11-09 23:00:00,44803020,Primary reason for admission,Médico
+761800209,257516861,2024-04-03 20:00:00,44803020,Primary reason for admission,Médico
+1605610870,532099243,2023-07-21 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1644572148,1854739335,2022-11-07 13:00:00,44803020,Primary reason for admission,Médico
+627182062,1026369043,2022-11-06 14:00:00,44803020,Primary reason for admission,Médico
+1677747596,274124776,2023-07-21 11:00:00,44803020,Primary reason for admission,Médico
+502799901,1545884916,2022-11-22 21:00:00,44803020,Primary reason for admission,Médico
+1242399075,904660615,2023-02-21 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1204471116,431412069,2022-11-08 23:00:00,44803020,Primary reason for admission,Médico
+1285978746,1678363714,2023-03-21 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1230468700,1694860506,2023-06-27 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1160191531,942732143,2022-11-12 13:00:00,44803020,Primary reason for admission,Médico
+1160191531,942732143,2022-11-15 16:00:00,44803020,Primary reason for admission,Médico
+668536602,2087299211,2022-12-01 00:00:00,44803020,Primary reason for admission,Médico
+266205799,1502877505,2022-11-15 20:00:00,44803020,Primary reason for admission,Médico
+2083345636,229722433,2022-12-14 23:00:00,44803020,Primary reason for admission,Médico
+999422031,810650510,2022-12-13 02:00:00,44803020,Primary reason for admission,Médico
+1072668731,1716177291,2023-05-09 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1653359,948337941,2022-11-24 04:00:00,44803020,Primary reason for admission,Médico
+297950375,707929003,2023-02-22 17:00:00,44803020,Primary reason for admission,Médico
+1152472279,1356607126,2023-01-13 01:00:00,44803020,Primary reason for admission,Médico
+1688930701,1407842706,2023-05-15 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1946983263,1613896938,2022-12-06 00:00:00,44803020,Primary reason for admission,Médico
+2103200468,346911660,2024-10-07 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1666314671,1471048580,2022-12-06 16:00:00,44803020,Primary reason for admission,Médico
+1751997533,789382855,2023-01-30 14:00:00,44803020,Primary reason for admission,Médico
+2062004997,593136982,2023-02-04 14:00:00,44803020,Primary reason for admission,Médico
+1565040086,1485712308,2022-12-11 10:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1754606540,1359753954,2023-01-11 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1789088228,1237244757,2023-07-12 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1088869012,246779630,2022-12-13 17:00:00,44803020,Primary reason for admission,Médico
+259479115,246779630,2023-02-04 01:00:00,44803020,Primary reason for admission,Médico
+1708093304,876627390,2022-12-15 03:00:00,44803020,Primary reason for admission,Médico
+1546495182,997729340,2023-03-26 19:00:00,44803020,Primary reason for admission,Médico
+1334511206,896782434,2022-12-16 11:00:00,44803020,Primary reason for admission,Médico
+212382750,77227526,2023-03-24 02:00:00,44803020,Primary reason for admission,Médico
+506709453,77227526,2023-05-09 18:00:00,44803020,Primary reason for admission,Médico
+1110533401,1056659378,2022-12-20 01:00:00,44803020,Primary reason for admission,Médico
+1098363353,1645156210,2024-05-31 17:00:00,44803020,Primary reason for admission,Médico
+1807589564,175702120,2023-01-07 02:00:00,44803020,Primary reason for admission,Médico
+2112608886,717235805,2022-12-27 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2112608886,717235805,2023-01-02 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2112608886,717235805,2023-01-19 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2112608886,717235805,2023-01-30 18:00:00,44803020,Primary reason for admission,Médico
+2112608886,717235805,2023-02-03 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+823030832,953834153,2023-04-14 20:00:00,44803020,Primary reason for admission,Médico
+1771462794,1135631043,2022-12-27 16:00:00,44803020,Primary reason for admission,Médico
+271111360,275053112,2023-01-01 07:00:00,44803020,Primary reason for admission,Médico
+2044033948,1136885305,2023-01-02 20:00:00,44803020,Primary reason for admission,Médico
+514020629,1173200725,2023-09-17 15:00:00,44803020,Primary reason for admission,Médico
+514020629,1173200725,2023-09-18 00:00:00,44803020,Primary reason for admission,Médico
+1991745400,2029663307,2023-01-05 04:00:00,44803020,Primary reason for admission,Médico
+1991205751,289035303,2023-01-05 09:00:00,44803020,Primary reason for admission,Médico
+961528757,1747917486,2023-01-07 12:00:00,44803020,Primary reason for admission,Médico
+1089783473,2089694874,2023-01-09 10:00:00,44803020,Primary reason for admission,Médico
+2080725610,1731315882,2023-01-09 14:00:00,44803020,Primary reason for admission,Médico
+380274963,1235972010,2023-01-10 00:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+782526895,418488714,2023-02-17 15:00:00,44803020,Primary reason for admission,Médico
+782526895,418488714,2023-02-22 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+565473072,1008381013,2023-02-08 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1283491884,536768397,2023-01-11 23:00:00,44803020,Primary reason for admission,Médico
+1585418792,1250247377,2023-03-21 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+906932505,480087610,2023-01-14 15:00:00,44803020,Primary reason for admission,Médico
+284315443,639402177,2023-01-22 11:00:00,44803020,Primary reason for admission,Médico
+1627722826,222253996,2023-01-31 03:00:00,44803020,Primary reason for admission,Médico
+459586114,1209168933,2023-02-03 08:00:00,44803020,Primary reason for admission,Médico
+1565389051,1104924844,2023-03-28 14:00:00,44803020,Primary reason for admission,Médico
+1215120131,763186472,2023-02-05 23:00:00,44803020,Primary reason for admission,Médico
+1022120344,763186472,2023-11-30 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+89281160,929128775,2023-03-03 20:00:00,44803020,Primary reason for admission,Médico
+579313354,1130431613,2023-03-20 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1873686045,1434454098,2023-02-16 09:00:00,44803020,Primary reason for admission,Médico
+1501605885,1434454098,2023-04-12 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1185251921,1604550780,2023-05-18 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1779508265,2043979594,2023-11-29 19:00:00,44803020,Primary reason for admission,Médico
+2079845166,393037238,2023-04-14 04:00:00,44803020,Primary reason for admission,Médico
+1239370531,2123277802,2023-03-23 13:00:00,44803020,Primary reason for admission,Médico
+1375108570,1509210185,2023-03-02 13:00:00,44803020,Primary reason for admission,Médico
+905397782,1358110186,2023-04-12 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+350960907,1622115318,2023-03-07 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+991644537,528693785,2023-03-28 13:00:00,44803020,Primary reason for admission,Médico
+748202763,1950615213,2023-10-10 14:00:00,44803020,Primary reason for admission,Médico
+748202763,1950615213,2023-10-17 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1619955888,1341609774,2023-03-16 16:00:00,44803020,Primary reason for admission,Médico
+1500324,1423961501,2024-11-03 20:00:00,44803020,Primary reason for admission,Médico
+1039332608,1177018721,2023-11-19 11:00:00,44803020,Primary reason for admission,Médico
+1719527053,1177018721,2023-12-30 13:00:00,44803020,Primary reason for admission,Médico
+430713254,1177018721,2024-11-13 09:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1872870486,1090267999,2024-04-05 06:00:00,44803020,Primary reason for admission,Médico
+1416832388,1172824808,2023-04-04 20:00:00,44803020,Primary reason for admission,Médico
+1772728200,1371897214,2024-01-08 19:00:00,44803020,Primary reason for admission,Médico
+271949469,2066252554,2023-05-03 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2108513186,252303047,2024-01-30 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+210131030,1125219880,2023-03-27 23:00:00,44803020,Primary reason for admission,Médico
+1449903139,712259655,2023-05-08 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+894259630,407410400,2023-06-30 13:00:00,44803020,Primary reason for admission,Médico
+894259630,407410400,2023-07-02 00:00:00,44803020,Primary reason for admission,Médico
+1790370842,68210427,2023-06-05 16:00:00,44803020,Primary reason for admission,Médico
+2142604382,127278553,2023-06-06 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+38719821,318710163,2023-07-11 17:00:00,44803020,Primary reason for admission,Médico
+234429174,1531492106,2023-04-10 19:00:00,44803020,Primary reason for admission,Médico
+1889824510,1750784564,2023-04-18 17:00:00,44803020,Primary reason for admission,Médico
+1752910174,1750784564,2023-09-26 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1015538251,1418190862,2023-07-12 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1645879072,1418190862,2023-08-20 13:00:00,44803020,Primary reason for admission,Médico
+1645879072,1418190862,2023-09-05 13:00:00,44803020,Primary reason for admission,Médico
+498465790,80202620,2023-04-16 14:00:00,44803020,Primary reason for admission,Médico
+1845117258,1705212354,2023-08-09 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+776885301,698557315,2024-02-12 00:00:00,44803020,Primary reason for admission,Médico
+884691544,42476347,2024-02-14 02:00:00,44803020,Primary reason for admission,Médico
+1840482260,67613519,2023-04-24 20:00:00,44803020,Primary reason for admission,Médico
+2123709868,67613519,2023-07-02 13:00:00,44803020,Primary reason for admission,Médico
+2123709868,67613519,2023-07-10 12:00:00,44803020,Primary reason for admission,Médico
+2123709868,67613519,2023-07-12 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+802621379,67613519,2023-08-01 10:00:00,44803020,Primary reason for admission,Médico
+1460310592,67613519,2023-09-27 11:00:00,44803020,Primary reason for admission,Médico
+1482377644,865373694,2023-04-28 19:00:00,44803020,Primary reason for admission,Médico
+1688779993,1133175563,2023-05-12 21:00:00,44803020,Primary reason for admission,Médico
+906759670,882186885,2023-10-11 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1009818877,1740038577,2024-07-16 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1395726361,25439439,2023-06-15 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+545956157,1647519753,2023-05-24 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+572247356,900970745,2023-05-28 03:00:00,44803020,Primary reason for admission,Médico
+693688430,583119247,2023-06-30 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+15316158,1428184937,2023-06-03 14:00:00,44803020,Primary reason for admission,Médico
+639244800,648172948,2023-06-07 20:00:00,44803020,Primary reason for admission,Médico
+847429753,2122046715,2023-10-30 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+51857947,95210180,2023-07-21 12:00:00,44803020,Primary reason for admission,Médico
+1396068084,915385160,2023-12-20 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+528798260,1385513587,2023-11-03 21:00:00,44803020,Primary reason for admission,Médico
+382460726,1737344224,2024-01-17 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1782517641,1370616893,2023-08-30 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+456976679,1370616893,2023-12-13 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2002330303,2076877615,2023-07-13 23:00:00,44803020,Primary reason for admission,Médico
+1697768625,467032954,2023-10-03 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1986647119,646733917,2023-08-07 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+109249733,454562338,2023-09-12 18:00:00,44803020,Primary reason for admission,Médico
+109249733,454562338,2023-10-08 19:00:00,44803020,Primary reason for admission,Médico
+109901334,454562338,2024-01-23 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+796627679,176347870,2023-08-21 14:00:00,44803020,Primary reason for admission,Médico
+2146783214,2004809995,2024-10-01 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1170465902,1002872644,2024-06-25 11:00:00,44803020,Primary reason for admission,Médico
+972902131,265800949,2024-05-09 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1217175560,265800949,2024-09-23 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+720660312,941898857,2023-08-24 20:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+1150117945,1440703617,2023-08-30 16:00:00,44803020,Primary reason for admission,Médico
+1150117945,1440703617,2023-09-12 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1115625287,1361971440,2023-10-16 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1115625287,1361971440,2023-10-30 13:00:00,44803020,Primary reason for admission,Médico
+977991663,1361971440,2024-03-26 12:00:00,44803020,Primary reason for admission,Médico
+2121506066,1968006557,2023-09-23 11:00:00,44803020,Primary reason for admission,Médico
+2121506066,1968006557,2023-12-07 00:00:00,44803020,Primary reason for admission,Médico
+2121506066,1968006557,2024-01-10 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2121506066,1968006557,2024-01-24 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1430811788,748065648,2023-09-14 16:00:00,44803020,Primary reason for admission,Médico
+1716390108,1736665625,2024-02-01 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1035909175,731633372,2024-02-11 11:00:00,44803020,Primary reason for admission,Médico
+1376263873,1072427883,2023-10-24 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1758288316,1751367949,2023-09-16 00:00:00,44803020,Primary reason for admission,Médico
+1709125075,756395506,2023-12-19 00:00:00,44803020,Primary reason for admission,Médico
+1709125075,756395506,2024-03-03 19:00:00,44803020,Primary reason for admission,Médico
+1787611550,2054886323,2023-09-28 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1353643773,1732264944,2024-10-17 21:00:00,44803020,Primary reason for admission,Médico
+1142651691,1891751571,2024-04-03 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+883828936,1319388451,2023-11-29 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+700094337,1827430253,2023-11-02 20:00:00,44803020,Primary reason for admission,Médico
+700094337,1827430253,2023-11-21 23:00:00,44803020,Primary reason for admission,Médico
+700094337,1827430253,2023-11-21 23:00:00,44803020,Primary reason for admission,Médico
+700094337,1827430253,2023-11-29 12:00:00,44803020,Primary reason for admission,Médico
+260857259,446644084,2023-10-11 23:00:00,44803020,Primary reason for admission,Médico
+1806072134,223961332,2023-10-15 13:00:00,44803020,Primary reason for admission,Médico
+1729228859,1081891736,2023-10-13 16:00:00,44803020,Primary reason for admission,Médico
+1815909843,1375416218,2023-12-09 19:00:00,44803020,Primary reason for admission,Médico
+875868553,768221617,2024-04-12 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+875868553,768221617,2024-04-21 21:00:00,44803020,Primary reason for admission,Médico
+444822910,2058664666,2024-02-28 21:00:00,44803020,Primary reason for admission,Médico
+444822910,2058664666,2024-03-12 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1107074127,2058664666,2024-05-13 12:00:00,44803020,Primary reason for admission,Médico
+1500769787,410021279,2024-01-28 11:00:00,44803020,Primary reason for admission,Médico
+393315035,2001830219,2024-06-05 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1729504975,464833144,2023-11-10 08:00:00,44803020,Primary reason for admission,Médico
+915145136,464833144,2023-12-11 11:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+454453623,413322039,2023-11-12 22:00:00,44803020,Primary reason for admission,Médico
+467575862,1643802593,2023-11-12 01:00:00,44803020,Primary reason for admission,Médico
+1365864394,1773837184,2024-10-22 23:00:00,44803020,Primary reason for admission,Médico
+206522540,1459094986,2023-11-16 19:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+206522540,1459094986,2023-11-21 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+484740227,636809140,2024-02-14 10:00:00,44803020,Primary reason for admission,Médico
+1437284073,636809140,2024-03-13 10:00:00,44803020,Primary reason for admission,Médico
+853617079,1936799561,2024-01-17 07:00:00,44803020,Primary reason for admission,Médico
+1301365715,569395818,2023-11-24 22:00:00,44803020,Primary reason for admission,Médico
+1965173613,486820341,2023-11-28 16:00:00,44803020,Primary reason for admission,Médico
+795735687,1947339187,2023-12-10 17:00:00,44803020,Primary reason for admission,Médico
+795735687,1947339187,2023-12-18 11:00:00,44803020,Primary reason for admission,Médico
+795735687,1947339187,2024-03-14 17:00:00,44803020,Primary reason for admission,Médico
+2141676749,355362396,2024-05-14 10:00:00,44803020,Primary reason for admission,Médico
+2141676749,355362396,2024-06-22 17:00:00,44803020,Primary reason for admission,Médico
+329254689,355362396,2024-08-13 13:00:00,44803020,Primary reason for admission,Médico
+1554082404,355362396,2024-10-03 06:00:00,44803020,Primary reason for admission,Médico
+1266158192,355362396,2024-11-04 18:00:00,44803020,Primary reason for admission,Médico
+960345758,2063003308,2023-12-13 19:00:00,44803020,Primary reason for admission,Médico
+1762475578,1425439587,2024-02-12 17:00:00,44803020,Primary reason for admission,Médico
+245082118,1212666590,2024-02-02 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1030204275,1645848892,2023-12-14 22:00:00,44803020,Primary reason for admission,Médico
+340247821,1127023302,2023-12-23 13:00:00,44803020,Primary reason for admission,Médico
+153189348,1754705909,2024-03-04 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+837094058,582093133,2024-02-15 14:00:00,44803020,Primary reason for admission,Médico
+1992070920,2001534152,2023-12-17 01:00:00,44803020,Primary reason for admission,Médico
+1992070920,2001534152,2023-12-24 11:00:00,44803020,Primary reason for admission,Médico
+818197262,1566586488,2023-12-19 07:00:00,44803020,Primary reason for admission,Médico
+117178885,171994373,2023-12-20 01:00:00,44803020,Primary reason for admission,Médico
+476967683,1054270737,2024-01-16 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1014632453,63615920,2024-01-03 13:00:00,44803020,Primary reason for admission,Médico
+1112961222,1023121928,2023-12-25 01:00:00,44803020,Primary reason for admission,Médico
+942249743,1461747336,2023-12-27 00:00:00,44803020,Primary reason for admission,Médico
+872019311,317350809,2023-12-27 14:00:00,44803020,Primary reason for admission,Médico
+214454762,1124408681,2024-03-16 11:00:00,44803020,Primary reason for admission,Médico
+214454762,1124408681,2024-03-17 23:00:00,44803020,Primary reason for admission,Médico
+176484829,1987677986,2023-12-29 08:00:00,44803020,Primary reason for admission,Médico
+436966002,2049522181,2024-03-11 16:00:00,44803020,Primary reason for admission,Médico
+92862358,1398706453,2024-02-05 18:00:00,44803020,Primary reason for admission,Médico
+1042250262,1202949773,2024-05-27 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2068624640,1202949773,2024-11-04 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+925679121,1822639747,2024-05-06 01:00:00,44803020,Primary reason for admission,Médico
+425662070,1265912744,2024-01-25 02:00:00,44803020,Primary reason for admission,Médico
+1968761575,1186884869,2024-04-14 13:00:00,44803020,Primary reason for admission,Médico
+526521029,1497677197,2024-02-29 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1040696977,830848439,2024-01-24 19:00:00,44803020,Primary reason for admission,Médico
+1040171272,2025360583,2024-06-20 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+328114862,1292042161,2024-02-01 17:00:00,44803020,Primary reason for admission,Médico
+1119976891,1054337328,2024-04-24 23:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1580616612,1957638639,2024-04-05 20:00:00,44803020,Primary reason for admission,Médico
+1717956134,1957638639,2024-10-28 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+228412865,1114331858,2024-02-29 20:00:00,44803020,Primary reason for admission,Médico
+1197946925,754593702,2024-07-10 23:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+374059173,553847062,2024-04-30 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+374059173,553847062,2024-05-06 11:00:00,44803020,Primary reason for admission,Médico
+374059173,553847062,2024-05-24 00:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+374059173,553847062,2024-06-06 11:00:00,44803020,Primary reason for admission,Médico
+374059173,553847062,2024-06-10 10:00:00,44803020,Primary reason for admission,Médico
+374059173,553847062,2024-08-01 19:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+639994847,2069003359,2024-03-21 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1590448209,1977965905,2024-04-17 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1251770829,1913314917,2024-04-03 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1883361718,1740217539,2024-02-20 02:00:00,44803020,Primary reason for admission,Médico
+674971988,727489000,2024-03-11 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1504932977,2126940030,2024-05-15 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+819302228,767457346,2024-03-26 09:00:00,44803020,Primary reason for admission,Médico
+276886807,1639750148,2024-03-06 20:00:00,44803020,Primary reason for admission,Médico
+1567317403,187349766,2024-03-11 10:00:00,44803020,Primary reason for admission,Médico
+1567317403,187349766,2024-03-22 15:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1986753690,1440485533,2024-10-30 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+2061328782,1044235326,2024-03-16 22:00:00,44803020,Primary reason for admission,Médico
+1389440565,409958693,2024-10-30 17:00:00,44803020,Primary reason for admission,Médico
+177973259,1368737433,2024-03-19 02:00:00,44803020,Primary reason for admission,Médico
+177973259,1368737433,2024-03-26 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+177973259,1368737433,2024-04-08 11:00:00,44803020,Primary reason for admission,Médico
+1767267900,2019802769,2024-04-21 16:00:00,44803020,Primary reason for admission,Médico
+243540928,1398450935,2024-03-19 21:00:00,44803020,Primary reason for admission,Médico
+401102017,1172600934,2024-04-09 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+401102017,1172600934,2024-04-09 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+137317440,1172600934,2024-08-26 19:00:00,44803020,Primary reason for admission,Médico
+137317440,1172600934,2024-09-02 10:00:00,44803020,Primary reason for admission,Médico
+1402492788,1172600934,2024-09-27 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1841453977,1172600934,2024-10-07 02:00:00,44803020,Primary reason for admission,Médico
+2001679412,624215006,2024-06-10 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1965380087,957683629,2024-07-04 19:00:00,44803020,Primary reason for admission,Médico
+1965380087,957683629,2024-07-11 22:00:00,44803020,Primary reason for admission,Quirúrgico - Urgencia
+921093588,1754765143,2024-03-28 14:00:00,44803020,Primary reason for admission,Médico
+1205797865,236638565,2024-07-10 17:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+102359366,947023548,2024-09-15 08:00:00,44803020,Primary reason for admission,Médico
+1566668920,947023548,2024-10-02 16:00:00,44803020,Primary reason for admission,Médico
+19364025,2098680285,2024-10-21 16:00:00,44803020,Primary reason for admission,Médico
+1929998569,1834338017,2024-06-12 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1148576059,695587940,2024-09-27 21:00:00,44803020,Primary reason for admission,Médico
+684282390,702583140,2024-04-29 13:00:00,44803020,Primary reason for admission,Médico
+363161622,1844025915,2024-04-29 19:00:00,44803020,Primary reason for admission,Médico
+363161622,1844025915,2024-05-28 13:00:00,44803020,Primary reason for admission,Médico
+363161622,1844025915,2024-06-23 07:00:00,44803020,Primary reason for admission,Médico
+1011371808,1447969855,2024-05-04 12:00:00,44803020,Primary reason for admission,Médico
+2011984324,264445818,2024-06-21 04:00:00,44803020,Primary reason for admission,Médico
+2011984324,264445818,2024-06-28 11:00:00,44803020,Primary reason for admission,Médico
+2011984324,264445818,2024-07-22 13:00:00,44803020,Primary reason for admission,Médico
+2011984324,264445818,2024-07-28 20:00:00,44803020,Primary reason for admission,Médico
+1922250936,264445818,2024-10-07 01:00:00,44803020,Primary reason for admission,Médico
+209081004,1224503486,2024-06-06 21:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+515311888,661507857,2024-05-10 14:00:00,44803020,Primary reason for admission,Médico
+1442341729,231389547,2024-05-28 16:00:00,44803020,Primary reason for admission,Médico
+1621282885,1511876642,2024-09-04 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1822600006,530451542,2024-06-18 18:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1257724126,1677315754,2024-06-03 22:00:00,44803020,Primary reason for admission,Médico
+1257724126,1677315754,2024-06-27 16:00:00,44803020,Primary reason for admission,Médico
+1813721076,470825591,2024-06-14 12:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+600290360,762984708,2024-06-17 15:00:00,44803020,Primary reason for admission,Médico
+600290360,762984708,2024-06-22 22:00:00,44803020,Primary reason for admission,Médico
+1920982320,1122053690,2024-08-14 13:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1920982320,1122053690,2024-08-17 11:00:00,44803020,Primary reason for admission,Médico
+1618864993,169218874,2024-08-08 19:00:00,44803020,Primary reason for admission,Médico
+2080101436,1274869833,2024-07-11 13:00:00,44803020,Primary reason for admission,Médico
+1610835811,950837874,2024-07-13 01:00:00,44803020,Primary reason for admission,Médico
+791347624,726778871,2024-07-24 20:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+685126068,969664940,2024-07-25 14:00:00,44803020,Primary reason for admission,Médico
+1303136717,48547301,2024-08-30 14:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+121838141,1909283311,2024-10-09 21:00:00,44803020,Primary reason for admission,Médico
+121838141,1909283311,2024-10-13 04:00:00,44803020,Primary reason for admission,Médico
+1409466146,1862608834,2024-08-04 01:00:00,44803020,Primary reason for admission,Médico
+226948796,1998515318,2024-10-11 11:00:00,44803020,Primary reason for admission,Médico
+226948796,1998515318,2024-10-15 12:00:00,44803020,Primary reason for admission,Médico
+323366332,506984597,2024-08-19 13:00:00,44803020,Primary reason for admission,Médico
+323366332,506984597,2024-09-03 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+608889219,1483360454,2024-08-20 17:00:00,44803020,Primary reason for admission,Médico
+397174463,1669743536,2024-08-21 19:00:00,44803020,Primary reason for admission,Médico
+397174463,1669743536,2024-09-04 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+216508379,1093837274,2024-09-28 16:00:00,44803020,Primary reason for admission,Médico
+865908078,1452014018,2024-09-03 13:00:00,44803020,Primary reason for admission,Médico
+1769413190,1436621682,2024-11-08 16:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+306929132,413825015,2024-09-25 01:00:00,44803020,Primary reason for admission,Médico
+1885743760,200904258,2024-10-29 19:00:00,44803020,Primary reason for admission,Quirúrgico - Electivo
+1268780330,1812975488,2024-10-05 15:00:00,44803020,Primary reason for admission,Médico
+189087728,1413141302,2024-10-05 10:00:00,44803020,Primary reason for admission,Médico
+1051337154,693528593,2024-10-21 13:00:00,44803020,Primary reason for admission,Médico
+1859950113,1828593640,2024-11-04 22:00:00,44803020,Primary reason for admission,Médico
