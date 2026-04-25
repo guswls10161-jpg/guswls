@@ -6,3 +6,11 @@ env/
 .env
 .DS_Store
 *.log
+run.pid
+submission*.csv
+metrics.json
+*.cbm
+catboost_info/
+phems_outputs/
+*_preprocessed.csv
+*_w_features_FINAL.csv
