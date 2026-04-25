@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 __pycache__/
 .ipynb_checkpoints/
 .venv/
@@ -7,7 +6,6 @@ env/
 .env
 .DS_Store
 *.log
-=======
 /.bash_history
 /.bash_logout
 /.bashrc
@@ -16,4 +14,11 @@ env/
 /.profile
 /.sudo_as_admin_successful
 /.vscode-server
->>>>>>> 003a30d367b90d007792393b0f70e1fc4ca32c5e
+run.pid
+submission*.csv
+metrics.json
+*.cbm
+catboost_info/
+phems_outputs/
+*_preprocessed.csv
+*_w_features_FINAL.csv
