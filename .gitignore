@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 __pycache__/
 .ipynb_checkpoints/
 .venv/
@@ -6,3 +7,13 @@ env/
 .env
 .DS_Store
 *.log
+=======
+/.bash_history
+/.bash_logout
+/.bashrc
+/.cache
+/.motd_shown
+/.profile
+/.sudo_as_admin_successful
+/.vscode-server
+>>>>>>> 003a30d367b90d007792393b0f70e1fc4ca32c5e
